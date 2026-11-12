@@ -129,10 +129,15 @@ OpenCV Code 128 не читает и не сравнивается.
 |---|---:|---|---|
 | Artelab Medium Barcode 1D, №1 и №2 | 214, 213 | CC BY 3.0 | [artelab.dista.uninsubria.it](http://artelab.dista.uninsubria.it/downloads/datasets/barcode/medium_barcode_1d/medium_barcode_1d.html) (Zamberletti, Gallo, Carullo, Binaghi, 2011) |
 | DEAL KAIST: barcode_bb, e8_bb, background | 3200, 89, 788 без кода | CC BY 4.0 | [zenodo.org/records/13586402](https://zenodo.org/records/13586402) |
-| SmartEngines barcode | 3000 из 3960 | по списку [BenSouchet/barcode-datasets](https://github.com/BenSouchet/barcode-datasets) | ftp://smartengines.com/barcode/ (Milovzorov, Arlazarov, Bezmaternykh, doi:10.1117/12.2587628) |
+| SmartEngines barcode | 3000 из 3960 | авторами не указана ** | ftp://smartengines.com/barcode/ (Milovzorov, Bezmaternykh, Arlazarov, doi:10.1117/12.2587628) |
 | Open Food Facts | 145 | CC BY-SA (снимки), ODbL (база) | [lists/off.csv](lists/off.csv) |
 | Wikimedia Commons, категория Code 128 | 31 снимок, 38 символов | у каждого файла своя | [lists/commons.csv](lists/commons.csv) |
 | синтетические без кода | 200 | MIT-0 (наши) | `harness/negative_synth.py`, зерно 7 |
+
+\*\* Лицензию набора SmartEngines авторы не указали (README на их сервере — без неё;
+[BenSouchet/barcode-datasets](https://github.com/BenSouchet/barcode-datasets) пишет CC BY 4.0 без источника,
+соседние наборы Smart Engines на том же сервере — CC BY-SA 2.5). Поэтому от него здесь только истина из
+разметки и ответы ридеров — без снимков.
 
 Сами снимки сюда не перекладываются: их нужно скачать у авторов. Раскладка
 `data/` — как в английской версии, раздел «Sets». Истина — в [truth/](truth):

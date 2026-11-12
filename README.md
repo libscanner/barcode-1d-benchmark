@@ -129,10 +129,15 @@ The generator is not published; the frames are.
 |---|---:|---|---|
 | Artelab Medium Barcode 1D, №1 and №2 | 214, 213 | CC BY 3.0 | [artelab.dista.uninsubria.it](http://artelab.dista.uninsubria.it/downloads/datasets/barcode/medium_barcode_1d/medium_barcode_1d.html) (Zamberletti, Gallo, Carullo, Binaghi, 2011) |
 | DEAL KAIST: barcode_bb, e8_bb, background | 3200, 89, 788 negative | CC BY 4.0 | [zenodo.org/records/13586402](https://zenodo.org/records/13586402) |
-| SmartEngines barcode | 3000 of 3960 | as listed by [BenSouchet/barcode-datasets](https://github.com/BenSouchet/barcode-datasets) | ftp://smartengines.com/barcode/ (Milovzorov, Arlazarov, Bezmaternykh, doi:10.1117/12.2587628) |
+| SmartEngines barcode | 3000 of 3960 | not stated by the authors ** | ftp://smartengines.com/barcode/ (Milovzorov, Bezmaternykh, Arlazarov, doi:10.1117/12.2587628) |
 | Open Food Facts | 145 | CC BY-SA (images), ODbL (database) | [lists/off.csv](lists/off.csv) |
 | Wikimedia Commons, category Code 128 | 31 images, 38 symbols | per file | [lists/commons.csv](lists/commons.csv) |
 | synthetic negatives | 200 negative | MIT-0 (ours) | `harness/negative_synth.py`, seed 7 |
+
+\*\* The authors state no licence for the SmartEngines barcode set (the README on their server has none;
+[BenSouchet/barcode-datasets](https://github.com/BenSouchet/barcode-datasets) lists CC BY 4.0 without a source,
+the other Smart Engines datasets on the same server are CC BY-SA 2.5). We therefore publish only its
+markup-derived truth and the readers' answers — no images.
 
 The images are not copied here: download them from their authors. Expected
 layout of `data/`:
