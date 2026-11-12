@@ -1,0 +1,7 @@
+file	truth	readers
+artelab/BarcodeDatasets/Dataset2/Foto(495).jpg	4902030187590	opencv,opencv-sr
+artelab/BarcodeDatasets/Dataset2/Foto(503).jpg	8002330097875	opencv
+artelab/BarcodeDatasets/Dataset2/Foto(707).jpg	8002330024451	opencv,opencv-sr
+artelab/BarcodeDatasets/Dataset2/Foto(708).jpg	8002330024451	opencv,opencv-sr
+artelab/BarcodeDatasets/Dataset2/Foto(716).jpg	8002330051617	opencv,opencv-sr
+artelab/BarcodeDatasets/Dataset2/Foto(717).jpg	8002330051617	zxing

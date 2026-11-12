@@ -1,0 +1,4 @@
+file	truth	readers
+artelab/BarcodeDatasets/Dataset1/05102009190.jpg	8002330112752	zbar,opencv,opencv-sr
+artelab/BarcodeDatasets/Dataset1/05102009191.jpg	8002330112752	zbar
+artelab/BarcodeDatasets/Dataset1/05102009195.jpg	8002330112752	zbar,opencv,opencv-sr

@@ -1,0 +1,6 @@
+data/
+wechat_sr/
+truth-check/
+results/*/work/
+__pycache__/
+*.pyc

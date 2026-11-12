@@ -1,0 +1,5 @@
+file	truth	readers
+deal/e8_bb/e8/40882895.jpg	40882895	zxing
+deal/e8_bb/e8/42256069.jpg	42256069	zxing,zbar
+deal/e8_bb/e8/87182262.jpg	87182262	zbar,opencv,opencv-sr
+deal/e8_bb/e8/90162909.jpg	90162909	zbar

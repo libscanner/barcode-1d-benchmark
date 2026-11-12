@@ -1,0 +1,901 @@
+idx	group	set	src	truth	w	h
+0	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009108.jpg	4902580453022	1600	1200
+1	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009111.jpg	4902580453022	1600	1200
+2	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009139.jpg	3434730707835	2048	1536
+3	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009154.jpg	8004020931773	1600	1200
+4	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009170.jpg	8005283002354	1600	1200
+5	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009180.jpg	8002205319804	1600	1200
+6	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009194.jpg	8002330112752	1600	1200
+7	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009224.jpg	8001410088710	1600	1200
+8	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009228.jpg	8001410088710	1200	1600
+9	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/06102009251.jpg	7321925005431	1600	1200
+10	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0007.JPG	4005401285991	2976	2232
+11	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0009.JPG	4902030187590	2976	2232
+12	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0010.JPG	4902030187590	2976	2232
+13	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0014.JPG	4902030187590	2976	2232
+14	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0018.JPG	4902030187590	2976	2232
+15	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0024.JPG	4902030024888	2976	2232
+16	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PICT0035.JPG	8011642115887	2976	2232
+17	clear	artelab-1	artelab/BarcodeDatasets/Dataset1/PIadwCT0019.JPG	4005808801046	2976	2232
+18	clear	deal	deal/barcode_bb/rec/0026000015608.jpg	0026000015608	1536	2048
+19	clear	deal	deal/barcode_bb/rec/0070247159007.jpg	0070247159007	612	816
+20	clear	deal	deal/barcode_bb/rec/0089836180742.jpg	0089836180742	540	960
+21	clear	deal	deal/barcode_bb/rec/0099482405434.jpg	0099482405434	540	960
+22	clear	deal	deal/barcode_bb/rec/0813568001439.jpg	0813568001439	1536	2048
+23	clear	deal	deal/barcode_bb/rec/2263079003206.jpg	2263079003206	833	1200
+24	clear	deal	deal/barcode_bb/rec/3095751394017.jpg	3095751394017	2400	2320
+25	clear	deal	deal/barcode_bb/rec/3164060730042.jpg	3164060730042	2195	3205
+26	clear	deal	deal/barcode_bb/rec/3261089225945.jpg	3261089225945	901	1200
+27	clear	deal	deal/barcode_bb/rec/3263859540722.jpg	3263859540722	1017	1200
+28	clear	deal	deal/barcode_bb/rec/3347430022439.jpg	3347430022439	901	1200
+29	clear	deal	deal/barcode_bb/rec/3384480031486.jpg	3384480031486	1577	1200
+30	clear	deal	deal/barcode_bb/rec/4001686309025.jpg	4001686309025	563	1000
+31	clear	deal	deal/barcode_bb/rec/4011800212018.jpg	4011800212018	563	1000
+32	clear	deal	deal/barcode_bb/rec/4015878530227-01.jpg	4015878530227	1600	1200
+33	clear	deal	deal/barcode_bb/rec/4018047000101-01.jpg	4018047000101	1600	1200
+34	clear	deal	deal/barcode_bb/rec/4078500292108-01.jpg	4078500292108	1600	1200
+35	clear	deal	deal/barcode_bb/rec/4260083100684-01.jpg	4260083100684	1600	1200
+36	clear	deal	deal/barcode_bb/rec/4305399052255-01.jpg	4305399052255	1600	1200
+37	clear	deal	deal/barcode_bb/rec/4305399063558-01.jpg	4305399063558	1600	1200
+38	clear	deal	deal/barcode_bb/rec/4305399064050-01.jpg	4305399064050	1600	1200
+39	clear	deal	deal/barcode_bb/rec/4306188027683-01.jpg	4306188027683	1600	1200
+40	clear	deal	deal/barcode_bb/rec/4316268474894.jpg	4316268474894	1000	1333
+41	clear	deal	deal/barcode_bb/rec/5000112547412-01.jpg	5000112547412	1600	1200
+42	clear	deal	deal/barcode_bb/rec/5029053009834-01.jpg	5029053009834	1600	1200
+43	clear	deal	deal/barcode_bb/rec/5411183072916-01.jpg	5411183072916	1600	1200
+44	clear	deal	deal/barcode_bb/rec/5411328060686.jpg	5411328060686	1984	1990
+45	clear	deal	deal/barcode_bb/rec/5705691102051-01.jpg	5705691102051	1600	1200
+46	clear	deal	deal/barcode_bb/rec/7615400735518-02.jpg	7615400735518	1600	1200
+47	clear	deal	deal/barcode_bb/rec/7616700116335.jpg	7616700116335	531	1000
+48	clear	deal	deal/barcode_bb/rec/8005283001951.jpg	8005283001951	2976	2232
+49	clear	deal	deal/barcode_bb/rec/8410320208420.jpg	8410320208420	4032	2630
+50	clear	deal	deal/barcode_bb/rec/8717163581407-01.jpg	8717163581407	1600	1200
+51	clear	deal	deal/barcode_bb/rec/8801045320212.jpg	8801045320212	3264	2448
+52	clear	deal	deal/barcode_bb/rec/8886467105357.jpg	8886467105357	3024	4032
+53	clear	deal	deal/barcode_bb/rec/9007084023254-01.jpg	9007084023254	1600	1200
+54	clear	deal	deal/barcode_bb/rec/9353333000263.jpg	9353333000263	3085	3965
+55	clear	deal	deal/barcode_bb/single_test/0022000159342.jpg	0022000159342	578	1000
+56	clear	deal	deal/barcode_bb/single_test/0054881005517.jpg	0054881005517	3024	4032
+57	clear	deal	deal/barcode_bb/single_test/0066701002873.jpg	0066701002873	584	1000
+58	clear	deal	deal/barcode_bb/single_test/0072417132049.jpg	0072417132049	225	400
+59	clear	deal	deal/barcode_bb/single_test/2128559007757.jpg	2128559007757	506	1000
+60	clear	deal	deal/barcode_bb/single_test/2410155009656.jpg	2410155009656	578	1000
+61	clear	deal	deal/barcode_bb/single_test/3073780516068.jpg	3073780516068	1000	506
+62	clear	deal	deal/barcode_bb/single_test/3073780574242.jpg	3073780574242	1500	2000
+63	clear	deal	deal/barcode_bb/single_test/3263858603916.jpg	3263858603916	1125	2000
+64	clear	deal	deal/barcode_bb/single_test/3270190203636.jpg	3270190203636	1971	2338
+65	clear	deal	deal/barcode_bb/single_test/3272770014205.jpg	3272770014205	585	1000
+66	clear	deal	deal/barcode_bb/single_test/3379149006868.jpg	3379149006868	1000	731
+67	clear	deal	deal/barcode_bb/single_test/3701035400359.jpg	3701035400359	482	1000
+68	clear	deal	deal/barcode_bb/single_test/4000417294005.jpg	4000417294005	1200	1116
+69	clear	deal	deal/barcode_bb/single_test/4002239675802.jpg	4002239675802	563	1000
+70	clear	deal	deal/barcode_bb/single_test/4002809004094.jpg	4002809004094	563	1000
+71	clear	deal	deal/barcode_bb/single_test/4008585102702.jpg	4008585102702	563	1000
+72	clear	deal	deal/barcode_bb/single_test/4011800201029.jpg	4011800201029	563	1000
+73	clear	deal	deal/barcode_bb/single_test/4088700052013.jpg	4088700052013	2448	3264
+74	clear	deal	deal/barcode_bb/single_test/4388860033236.jpg	4388860033236	563	1000
+75	clear	deal	deal/barcode_bb/single_test/5000128969369.jpg	5000128969369	901	1200
+76	clear	deal	deal/barcode_bb/single_test/5000267015200.jpg	5000267015200	3024	4032
+77	clear	deal	deal/barcode_bb/single_test/5012427142701.jpg	5012427142701	2000	2697
+78	clear	deal	deal/barcode_bb/single_test/5014213000929.jpg	5014213000929	2000	2697
+79	clear	deal	deal/barcode_bb/single_test/5057172016037.jpg	5057172016037	3024	4027
+80	clear	deal	deal/barcode_bb/single_test/5057373870810.jpg	5057373870810	3024	4032
+81	clear	deal	deal/barcode_bb/single_test/5057967620579.jpg	5057967620579	3024	4032
+82	clear	deal	deal/barcode_bb/single_test/5060088706923.jpg	5060088706923	540	1000
+83	clear	deal	deal/barcode_bb/single_test/5410063004238.jpg	5410063004238	1880	765
+84	clear	deal	deal/barcode_bb/single_test/5413548015552.jpg	5413548015552	1125	2000
+85	clear	deal	deal/barcode_bb/single_test/6914782082397.jpg	6914782082397	3264	2448
+86	clear	deal	deal/barcode_bb/single_test/7610055101442.jpg	7610055101442	580	1000
+87	clear	deal	deal/barcode_bb/single_test/7610198031118.jpg	7610198031118	531	1000
+88	clear	deal	deal/barcode_bb/single_test/7610829593107.jpg	7610829593107	634	1000
+89	clear	deal	deal/barcode_bb/single_test/7611613001112.jpg	7611613001112	580	1000
+90	clear	deal	deal/barcode_bb/single_test/7613031587339.jpg	7613031587339	2000	2666
+91	clear	deal	deal/barcode_bb/single_test/7613036864572.jpg	7613036864572	584	1000
+92	clear	deal	deal/barcode_bb/single_test/7613269896159.jpg	7613269896159	580	1000
+93	clear	deal	deal/barcode_bb/single_test/7613312263433.jpg	7613312263433	506	1000
+94	clear	deal	deal/barcode_bb/single_test/7613312265673.jpg	7613312265673	511	1000
+95	clear	deal	deal/barcode_bb/single_test/7613312287866.jpg	7613312287866	563	1000
+96	clear	deal	deal/barcode_bb/single_test/7613404162477.jpg	7613404162477	580	1000
+97	clear	deal	deal/barcode_bb/single_test/7613404176627.jpg	7613404176627	580	1000
+98	clear	deal	deal/barcode_bb/single_test/7614200023832.jpg	7614200023832	1000	506
+99	clear	deal	deal/barcode_bb/single_test/7616700083507.jpg	7616700083507	531	1000
+100	clear	deal	deal/barcode_bb/single_test/7617400093971.jpg	7617400093971	488	1000
+101	clear	deal	deal/barcode_bb/single_test/7629999022973.jpg	7629999022973	506	1000
+102	clear	deal	deal/barcode_bb/single_test/7640110707579.jpg	7640110707579	400	389
+103	clear	deal	deal/barcode_bb/single_test/7804320214085.jpg	7804320214085	3024	4032
+104	clear	deal	deal/barcode_bb/single_test/8009205601045.jpg	8009205601045	531	1000
+105	clear	deal	deal/barcode_bb/single_test/8013108696770.jpg	8013108696770	511	1000
+106	clear	deal	deal/barcode_bb/single_test/8588004338111.jpg	8588004338111	2448	3264
+107	clear	deal	deal/barcode_bb/single_test/8719200088986.jpg	8719200088986	3024	4032
+108	clear	deal	deal/barcode_bb/single_test/8801037087543.jpg	8801037087543	3024	4032
+109	clear	deal	deal/barcode_bb/single_test/8801055704521.jpg	8801055704521	3024	4032
+110	clear	deal	deal/barcode_bb/single_test/8801237682517.jpg	8801237682517	3024	4032
+111	clear	deal	deal/barcode_bb/single_test/8801767335686.jpg	8801767335686	3024	4032
+112	clear	deal	deal/barcode_bb/single_test/8801767337314.jpg	8801767337314	3024	4032
+113	clear	deal	deal/barcode_bb/single_test/8934563138165_1.jpg	8934563138165	2448	3264
+114	clear	deal	deal/barcode_bb/single_test/8934678030033.jpg	8934678030033	2448	3264
+115	clear	deal	deal/barcode_bb/single_test/8934822101336.jpg	8934822101336	720	960
+116	clear	deal	deal/barcode_bb/single_test/8997035600638_1.jpg	8997035600638	2448	3264
+117	clear	deal	deal/barcode_bb/single_test/9021600169127.jpg	9021600169127	580	1000
+118	clear	deal	deal/barcode_bb/single_test/9319864001926.jpg	9319864001926	2240	4608
+119	clear	deal-e8	deal/e8_bb/e8/00425100.jpg	00425100	1764	2058
+120	clear	deal-e8	deal/e8_bb/e8/01797909.jpg	01797909	1748	2697
+121	clear	deal-e8	deal/e8_bb/e8/26001425.jpg	26001425	3024	4032
+122	clear	deal-e8	deal/e8_bb/e8/26067711.jpg	26067711	2160	2160
+123	clear	deal-e8	deal/e8_bb/e8/27020654.jpg	27020654	855	1200
+124	clear	deal-e8	deal/e8_bb/e8/87157185.jpg	87157185	1890	2412
+125	clear	off	off/0041196466447_2.jpg	0041196466447	894	1920
+126	clear	off	off/0639123880727_2.jpg	0639123880727	590	1280
+127	clear	off	off/3268840001008_107.jpg	3268840001008	1440	1920
+128	clear	off	off/3800201510660_1.jpg	3800201510660	1920	557
+129	clear	off	off/4311501766842_3.jpg	4311501766842	1876	1920
+130	clear	off	off/4601347002212_1.jpg	4601347002212	838	572
+131	clear	off	off/4870036007504_1.jpg	4870036007504	1920	1286
+132	clear	off	off/5411188126393_20.jpg	5411188126393	1920	1312
+133	clear	off	off/8908019299076_4.jpg	8908019299076	1440	1920
+134	clear	smartengines	smartengines/images/15/img_724.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	233
+135	clear	smartengines	smartengines/images/15/img_757.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+136	clear	smartengines	smartengines/images/15/img_757.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+137	clear	smartengines	smartengines/images/15/img_788.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1250	492
+138	clear	smartengines	smartengines/images/15/img_789.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1219	662
+139	clear	smartengines	smartengines/images/15/img_790.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	466
+140	clear	smartengines	smartengines/images/15/img_795.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1219	331
+141	clear	smartengines	smartengines/images/15/img_825.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	331
+142	clear	smartengines	smartengines/images/15/img_826.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+143	clear	smartengines	smartengines/images/15/img_829.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	309
+144	clear	smartengines	smartengines/images/15/img_837.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	331
+145	clear	smartengines	smartengines/images/15/img_838.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+146	clear	smartengines	smartengines/images/15/img_844.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	466
+147	clear	smartengines	smartengines/images/15/img_848.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+148	clear	smartengines	smartengines/images/15/img_853.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	618
+149	clear	smartengines	smartengines/images/15/img_860.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+150	medium	artelab-1	artelab/BarcodeDatasets/Dataset1/05102009227.jpg	8001410088710	1600	1200
+151	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(552).jpg	8002330098063	1152	864
+152	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(553).jpg	8002330098063	1152	864
+153	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(563).jpg	5012254112595	1152	864
+154	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(687).jpg	8011642115962	1152	864
+155	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(694).jpg	8011642115887	1152	864
+156	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(740).jpg	8011642115887	1152	864
+157	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(777).jpg	0051122414831	1152	864
+158	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(783).jpg	8005235212442	1152	864
+159	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(784).jpg	8005235212442	1152	864
+160	medium	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(796).jpg	8005235212442	1152	864
+161	medium	commons-c128	commons/commons_003.jpg	-0001364874?	1920	1135
+162	medium	commons-c128	commons/commons_044.jpg	CN M471B5173QH0-YK0 1412	1920	1080
+163	medium	deal	deal/barcode_bb/rec/0050428742037.jpg	0050428742037	2048	1536
+164	medium	deal	deal/barcode_bb/rec/0287458037981.jpg	0287458037981	785	1200
+165	medium	deal	deal/barcode_bb/rec/2238081022767.jpg	2238081022767	924	1200
+166	medium	deal	deal/barcode_bb/rec/3191010083309.jpg	3191010083309	2976	3968
+167	medium	deal	deal/barcode_bb/rec/3376370131956.jpg	3376370131956	649	1200
+168	medium	deal	deal/barcode_bb/rec/3434730707835_1.jpg	3434730707835	2976	2232
+169	medium	deal	deal/barcode_bb/rec/3700048837527.jpg	3700048837527	2050	1153
+170	medium	deal	deal/barcode_bb/rec/3847800000871.jpg	3847800000871	1594	1200
+171	medium	deal	deal/barcode_bb/rec/4015000019088-01.jpg	4015000019088	1600	1200
+172	medium	deal	deal/barcode_bb/rec/4028691017011-01.jpg	4028691017011	1600	1200
+173	medium	deal	deal/barcode_bb/rec/4042116810001.jpg	4042116810001	563	1000
+174	medium	deal	deal/barcode_bb/rec/4058700520430-01.jpg	4058700520430	1600	1200
+175	medium	deal	deal/barcode_bb/rec/4062400542081-01.jpg	4062400542081	1600	1200
+176	medium	deal	deal/barcode_bb/rec/4388840014156-01.jpg	4388840014156	1600	1200
+177	medium	deal	deal/barcode_bb/rec/7610338121150.jpg	7610338121150	488	1000
+178	medium	deal	deal/barcode_bb/rec/7611889110723.jpg	7611889110723	511	1000
+179	medium	deal	deal/barcode_bb/rec/7613269779773.jpg	7613269779773	563	1000
+180	medium	deal	deal/barcode_bb/rec/8076809523738-01.jpg	8076809523738	1600	1200
+181	medium	deal	deal/barcode_bb/rec/8480017169723.jpg	8480017169723	666	863
+182	medium	deal	deal/barcode_bb/rec/8801353003807.jpg	8801353003807	3264	2448
+183	medium	deal	deal/barcode_bb/rec/8809296884972.jpg	8809296884972	1440	1080
+184	medium	deal	deal/barcode_bb/single_test/0024000001669.jpg	0024000001669	563	1000
+185	medium	deal	deal/barcode_bb/single_test/0028000463687.jpg	0028000463687	3264	2448
+186	medium	deal	deal/barcode_bb/single_test/0096619372379.jpg	0096619372379	3264	2448
+187	medium	deal	deal/barcode_bb/single_test/0613008730734.jpg	0613008730734	563	1000
+188	medium	deal	deal/barcode_bb/single_test/0722252130075.jpg	0722252130075	1000	563
+189	medium	deal	deal/barcode_bb/single_test/0744473000142.jpg	0744473000142	578	1000
+190	medium	deal	deal/barcode_bb/single_test/2107659003357.jpg	2107659003357	585	1000
+191	medium	deal	deal/barcode_bb/single_test/2123230007958.jpg	2123230007958	506	1000
+192	medium	deal	deal/barcode_bb/single_test/2130786005703.jpg	2130786005703	580	1000
+193	medium	deal	deal/barcode_bb/single_test/2153367005909.jpg	2153367005909	578	1000
+194	medium	deal	deal/barcode_bb/single_test/3080920100254.jpg	3080920100254	1200	1600
+195	medium	deal	deal/barcode_bb/single_test/3257980113863.jpg	3257980113863	897	979
+196	medium	deal	deal/barcode_bb/single_test/3268350120091.jpg	3268350120091	562	960
+197	medium	deal	deal/barcode_bb/single_test/3378639920127.jpg	3378639920127	585	1000
+198	medium	deal	deal/barcode_bb/single_test/3700110008121.jpg	3700110008121	488	1000
+199	medium	deal	deal/barcode_bb/single_test/4007803439002.jpg	4007803439002	511	1000
+200	medium	deal	deal/barcode_bb/single_test/4037300108286.jpg	4037300108286	563	1000
+201	medium	deal	deal/barcode_bb/single_test/4037300108736.jpg	4037300108736	563	1000
+202	medium	deal	deal/barcode_bb/single_test/4041246210002.jpg	4041246210002	503	1000
+203	medium	deal	deal/barcode_bb/single_test/4099200065281.jpg	4099200065281	506	1000
+204	medium	deal	deal/barcode_bb/single_test/4104760429296.jpg	4104760429296	585	1000
+205	medium	deal	deal/barcode_bb/single_test/4260193513862.jpg	4260193513862	585	1000
+206	medium	deal	deal/barcode_bb/single_test/4903034012659.jpg	4903034012659	2448	3264
+207	medium	deal	deal/barcode_bb/single_test/5000168215518.jpg	5000168215518	1099	1200
+208	medium	deal	deal/barcode_bb/single_test/5000328200538.jpg	5000328200538	300	400
+209	medium	deal	deal/barcode_bb/single_test/5045097865991.jpg	5045097865991	3024	4027
+210	medium	deal	deal/barcode_bb/single_test/5054070716311.jpg	5054070716311	816	1200
+211	medium	deal	deal/barcode_bb/single_test/5054070904541.jpg	5054070904541	300	400
+212	medium	deal	deal/barcode_bb/single_test/5060045586322.jpg	5060045586322	3024	4032
+213	medium	deal	deal/barcode_bb/single_test/7610434019832.jpg	7610434019832	634	1000
+214	medium	deal	deal/barcode_bb/single_test/7610800001010.jpg	7610800001010	563	1000
+215	medium	deal	deal/barcode_bb/single_test/7610999502626.jpg	7610999502626	511	1000
+216	medium	deal	deal/barcode_bb/single_test/7611889116367.jpg	7611889116367	529	1000
+217	medium	deal	deal/barcode_bb/single_test/7613036273909.jpg	7613036273909	1440	2560
+218	medium	deal	deal/barcode_bb/single_test/7613269382904.jpg	7613269382904	578	1000
+219	medium	deal	deal/barcode_bb/single_test/7613312112069.jpg	7613312112069	634	1000
+220	medium	deal	deal/barcode_bb/single_test/7613404203378.jpg	7613404203378	540	1000
+221	medium	deal	deal/barcode_bb/single_test/7613413698394.jpg	7613413698394	1000	506
+222	medium	deal	deal/barcode_bb/single_test/7617500194011.jpg	7617500194011	488	1000
+223	medium	deal	deal/barcode_bb/single_test/7629999027053.jpg	7629999027053	578	1000
+224	medium	deal	deal/barcode_bb/single_test/7640114820502.jpg	7640114820502	1000	563
+225	medium	deal	deal/barcode_bb/single_test/7640127050118.jpg	7640127050118	578	1000
+226	medium	deal	deal/barcode_bb/single_test/8076809576352.jpg	8076809576352	511	1000
+227	medium	deal	deal/barcode_bb/single_test/8710624246532.jpg	8710624246532	3024	4032
+228	medium	deal	deal/barcode_bb/single_test/8801094132705.jpg	8801094132705	3024	4032
+229	medium	deal	deal/barcode_bb/single_test/8935039513196.jpg	8935039513196	2448	3264
+230	medium	deal	deal/barcode_bb/single_test/8993175535878.jpg	8993175535878	720	960
+231	medium	deal	deal/barcode_bb/single_test/9353333002311.jpg	9353333002311	4160	3120
+232	medium	deal-e8	deal/e8_bb/e8/20013233.jpg	20013233	1125	2000
+233	medium	deal-e8	deal/e8_bb/e8/20367596.jpg	20367596	1125	1802
+234	medium	deal-e8	deal/e8_bb/e8/22121103.jpg	22121103	4032	3024
+235	medium	deal-e8	deal/e8_bb/e8/24037686.jpg	24037686	2592	1762
+236	medium	off	off/0857254000221_4.jpg	0857254000221	592	1280
+237	medium	off	off/3800237501434_1.jpg	3800237501434	1027	1920
+238	medium	off	off/5057780034058_1.jpg	5057780034058	1440	1920
+239	medium	off	off/5941905049280_2.jpg	5941905049280	1440	1920
+240	medium	smartengines	smartengines/images/15/img_591.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+241	medium	smartengines	smartengines/images/15/img_599.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+242	medium	smartengines	smartengines/images/15/img_622.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+243	medium	smartengines	smartengines/images/15/img_630.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+244	medium	smartengines	smartengines/images/15/img_634.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+245	medium	smartengines	smartengines/images/15/img_651.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+246	medium	smartengines	smartengines/images/15/img_663.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+247	medium	smartengines	smartengines/images/15/img_667.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+248	medium	smartengines	smartengines/images/15/img_699.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+249	medium	smartengines	smartengines/images/15/img_700.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+250	medium	smartengines	smartengines/images/15/img_724.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	233
+251	medium	smartengines	smartengines/images/15/img_729.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1219	331
+252	medium	smartengines	smartengines/images/15/img_736.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	233
+253	medium	smartengines	smartengines/images/15/img_742.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	233
+254	medium	smartengines	smartengines/images/15/img_742.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	233
+255	medium	smartengines	smartengines/images/15/img_759.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1219	331
+256	medium	smartengines	smartengines/images/15/img_765.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1219	331
+257	medium	smartengines	smartengines/images/15/img_769.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+258	medium	smartengines	smartengines/images/15/img_773.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+259	medium	smartengines	smartengines/images/15/img_773.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+260	medium	smartengines	smartengines/images/15/img_773.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+261	medium	smartengines	smartengines/images/15/img_775.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	672	309
+262	medium	smartengines	smartengines/images/15/img_778.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	466
+263	medium	smartengines	smartengines/images/15/img_784.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	466
+264	medium	smartengines	smartengines/images/15/img_790.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	466
+265	medium	smartengines	smartengines/images/15/img_790.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	466
+266	medium	smartengines	smartengines/images/15/img_801.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	331
+267	medium	smartengines	smartengines/images/15/img_806.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+268	medium	smartengines	smartengines/images/15/img_810.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	185
+269	medium	smartengines	smartengines/images/15/img_817.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	309
+270	medium	smartengines	smartengines/images/15/img_823.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+271	medium	smartengines	smartengines/images/15/img_838.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+272	medium	smartengines	smartengines/images/15/img_846.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+273	medium	smartengines	smartengines/images/15/img_847.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+274	medium	smartengines	smartengines/images/15/img_855.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1219	662
+275	medium	smartengines	smartengines/images/15/img_856.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	466
+276	medium	smartengines	smartengines/images/15/img_860.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+277	medium	smartengines	smartengines/images/15/img_864.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	370
+278	medium	smartengines	smartengines/images/15/img_866.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+279	medium	smartengines	smartengines/images/15/img_868.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+280	medium	smartengines	smartengines/images/15/img_871.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+281	medium	smartengines	smartengines/images/15/img_876.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+282	medium	smartengines	smartengines/images/15/img_879.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+283	medium	smartengines	smartengines/images/15/img_888.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+284	medium	smartengines	smartengines/images/15/img_892.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+285	medium	smartengines	smartengines/images/15/img_892.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+286	medium	smartengines	smartengines/images/15/img_898.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+287	medium	smartengines	smartengines/images/15/img_899.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	805	284
+288	medium	smartengines	smartengines/images/15/img_900.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+289	medium	smartengines	smartengines/images/15/img_902.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+290	medium	smartengines	smartengines/images/15/img_903.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+291	medium	smartengines	smartengines/images/15/img_905.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	805	284
+292	medium	smartengines	smartengines/images/15/img_913.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	672	309
+293	medium	smartengines	smartengines/images/15/img_915.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+294	medium	smartengines	smartengines/images/15/img_915.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+295	medium	smartengines	smartengines/images/15/img_922.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	466
+296	medium	smartengines	smartengines/images/15/img_923.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	805	284
+297	medium	smartengines	smartengines/images/15/img_928.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	466
+298	medium	smartengines	smartengines/images/15/img_930.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	370
+299	medium	smartengines	smartengines/images/15/img_930.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	370
+300	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(507).jpg	8023222032262	1152	864
+301	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(516).jpg	5030930017491	1152	864
+302	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(542).jpg	8002205319804	1152	864
+303	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(543).jpg	8002205319804	1152	864
+304	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(567).jpg	3600540477323	1152	864
+305	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(682).jpg	8023222032262	1152	864
+306	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(728).jpg	8023222032262	1152	864
+307	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(769).jpg	0051122414831	1152	864
+308	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(770).jpg	0051122414831	1152	864
+309	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(771).jpg	0051122414831	1152	864
+310	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(773).jpg	0051122414831	1152	864
+311	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(799).jpg	7321925005431	1152	864
+312	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(800).jpg	7321925005431	1152	864
+313	hard	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(806).jpg	7321925005431	1152	864
+314	hard	commons-c128	commons/commons_033.jpg	00-17-4F-08-5D-69	380	105
+315	hard	deal	deal/barcode_bb/rec/0019100194304.jpg	0019100194304	424	566
+316	hard	deal	deal/barcode_bb/rec/0722252161031.jpg	0722252161031	1536	2048
+317	hard	deal	deal/barcode_bb/rec/2481339060411.jpg	2481339060411	1117	1200
+318	hard	deal	deal/barcode_bb/rec/3256220878173.jpg	3256220878173	648	776
+319	hard	deal	deal/barcode_bb/rec/3560070382828.jpg	3560070382828	1016	1347
+320	hard	deal	deal/barcode_bb/rec/3595531011900.jpg	3595531011900	2304	1728
+321	hard	deal	deal/barcode_bb/rec/3760091570253.jpg	3760091570253	1077	1200
+322	hard	deal	deal/barcode_bb/rec/4006196886325.jpg	4006196886325	901	1200
+323	hard	deal	deal/barcode_bb/rec/4035375005011-01.jpg	4035375005011	1600	1200
+324	hard	deal	deal/barcode_bb/rec/4061458115872.jpg	4061458115872	1000	634
+325	hard	deal	deal/barcode_bb/rec/4062300043978-01.jpg	4062300043978	1600	1200
+326	hard	deal	deal/barcode_bb/rec/4809010272027.jpg	4809010272027	3480	4640
+327	hard	deal	deal/barcode_bb/rec/5449000131805.jpg	5449000131805	1125	2000
+328	hard	deal	deal/barcode_bb/rec/7312040090709.jpg	7312040090709	2943	2798
+329	hard	deal	deal/barcode_bb/rec/7610800639329.jpg	7610800639329	580	1000
+330	hard	deal	deal/barcode_bb/rec/7613030721123-01.jpg	7613030721123	1600	1200
+331	hard	deal	deal/barcode_bb/rec/7615900132800.jpg	7615900132800	578	1000
+332	hard	deal	deal/barcode_bb/rec/8715186853815-01.jpg	8715186853815	1600	1200
+333	hard	deal	deal/barcode_bb/rec/8801037013153.jpg	8801037013153	2040	1530
+334	hard	deal	deal/barcode_bb/rec/8801083017327.jpg	8801083017327	2040	1530
+335	hard	deal	deal/barcode_bb/single_test/0037466017631.jpg	0037466017631	578	1000
+336	hard	deal	deal/barcode_bb/single_test/0038900030537.jpg	0038900030537	359	400
+337	hard	deal	deal/barcode_bb/single_test/2322011801758.jpg	2322011801758	400	288
+338	hard	deal	deal/barcode_bb/single_test/3080920100551.jpg	3080920100551	1200	1600
+339	hard	deal	deal/barcode_bb/single_test/3347430020619.jpg	3347430020619	795	1200
+340	hard	deal	deal/barcode_bb/single_test/3585801000611.jpg	3585801000611	506	1000
+341	hard	deal	deal/barcode_bb/single_test/4008100168220.jpg	4008100168220	563	1000
+342	hard	deal	deal/barcode_bb/single_test/4025500245184.jpg	4025500245184	398	400
+343	hard	deal	deal/barcode_bb/single_test/4260419420011.jpg	4260419420011	580	1000
+344	hard	deal	deal/barcode_bb/single_test/4800519183036.jpg	4800519183036	3264	2448
+345	hard	deal	deal/barcode_bb/single_test/4809010272027.jpg	4809010272027	3480	4640
+346	hard	deal	deal/barcode_bb/single_test/5027906011188.jpg	5027906011188	278	400
+347	hard	deal	deal/barcode_bb/single_test/5051413739273.jpg	5051413739273	300	400
+348	hard	deal	deal/barcode_bb/single_test/5060011956906.jpg	5060011956906	194	400
+349	hard	deal	deal/barcode_bb/single_test/7610271656566.jpg	7610271656566	511	1000
+350	hard	deal	deal/barcode_bb/single_test/7610632954881.jpg	7610632954881	642	1000
+351	hard	deal	deal/barcode_bb/single_test/7610867016347.jpg	7610867016347	488	1000
+352	hard	deal	deal/barcode_bb/single_test/7613404131473.jpg	7613404131473	634	1000
+353	hard	deal	deal/barcode_bb/single_test/7640107199745.jpg	7640107199745	580	1000
+354	hard	deal	deal/barcode_bb/single_test/7640134810132.jpg	7640134810132	540	1000
+355	hard	deal	deal/barcode_bb/single_test/8430236063012.jpg	8430236063012	580	1000
+356	hard	deal	deal/barcode_bb/single_test/8712439030702.jpg	8712439030702	900	1200
+357	hard	deal	deal/barcode_bb/single_test/8935054882826_1.jpg	8935054882826	1440	2560
+358	hard	deal	deal/barcode_bb/single_test/8938501614353.jpg	8938501614353	2448	3264
+359	hard	deal-e8	deal/e8_bb/e8/03246481.jpg	03246481	2000	1482
+360	hard	off	off/4680089899274_4.jpg	4680089899274	1920	1904
+361	hard	smartengines	smartengines/images/15/img_579.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+362	hard	smartengines	smartengines/images/15/img_580.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+363	hard	smartengines	smartengines/images/15/img_581.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+364	hard	smartengines	smartengines/images/15/img_585.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+365	hard	smartengines	smartengines/images/15/img_590.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+366	hard	smartengines	smartengines/images/15/img_590.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+367	hard	smartengines	smartengines/images/15/img_592.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+368	hard	smartengines	smartengines/images/15/img_595.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+369	hard	smartengines	smartengines/images/15/img_595.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+370	hard	smartengines	smartengines/images/15/img_598.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+371	hard	smartengines	smartengines/images/15/img_603.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+372	hard	smartengines	smartengines/images/15/img_604.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+373	hard	smartengines	smartengines/images/15/img_606.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+374	hard	smartengines	smartengines/images/15/img_606.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+375	hard	smartengines	smartengines/images/15/img_607.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+376	hard	smartengines	smartengines/images/15/img_610.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+377	hard	smartengines	smartengines/images/15/img_611.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+378	hard	smartengines	smartengines/images/15/img_614.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+379	hard	smartengines	smartengines/images/15/img_615.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+380	hard	smartengines	smartengines/images/15/img_618.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+381	hard	smartengines	smartengines/images/15/img_618.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+382	hard	smartengines	smartengines/images/15/img_619.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+383	hard	smartengines	smartengines/images/15/img_619.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+384	hard	smartengines	smartengines/images/15/img_627.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+385	hard	smartengines	smartengines/images/15/img_631.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+386	hard	smartengines	smartengines/images/15/img_631.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+387	hard	smartengines	smartengines/images/15/img_632.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+388	hard	smartengines	smartengines/images/15/img_632.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+389	hard	smartengines	smartengines/images/15/img_638.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+390	hard	smartengines	smartengines/images/15/img_640.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+391	hard	smartengines	smartengines/images/15/img_641.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+392	hard	smartengines	smartengines/images/15/img_643.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+393	hard	smartengines	smartengines/images/15/img_645.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+394	hard	smartengines	smartengines/images/15/img_646.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+395	hard	smartengines	smartengines/images/15/img_647.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+396	hard	smartengines	smartengines/images/15/img_656.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+397	hard	smartengines	smartengines/images/15/img_657.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+398	hard	smartengines	smartengines/images/15/img_660.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+399	hard	smartengines	smartengines/images/15/img_664.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+400	hard	smartengines	smartengines/images/15/img_667.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+401	hard	smartengines	smartengines/images/15/img_670.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1900	466
+402	hard	smartengines	smartengines/images/15/img_672.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+403	hard	smartengines	smartengines/images/15/img_681.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	662
+404	hard	smartengines	smartengines/images/15/img_683.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	568
+405	hard	smartengines	smartengines/images/15/img_686.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2500	492
+406	hard	smartengines	smartengines/images/15/img_687.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+407	hard	smartengines	smartengines/images/15/img_689.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1610	284
+408	hard	smartengines	smartengines/images/15/img_691.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+409	hard	smartengines	smartengines/images/15/img_699.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+410	hard	smartengines	smartengines/images/15/img_700.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+411	hard	smartengines	smartengines/images/15/img_701.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1610	284
+412	hard	smartengines	smartengines/images/15/img_702.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+413	hard	smartengines	smartengines/images/15/img_704.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+414	hard	smartengines	smartengines/images/15/img_705.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+415	hard	smartengines	smartengines/images/15/img_707.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	284
+416	hard	smartengines	smartengines/images/15/img_714.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+417	hard	smartengines	smartengines/images/15/img_717.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+418	hard	smartengines	smartengines/images/15/img_718.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1900	466
+419	hard	smartengines	smartengines/images/15/img_719.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	568
+420	hard	smartengines	smartengines/images/15/img_719.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	568
+421	hard	smartengines	smartengines/images/15/img_720.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+422	hard	smartengines	smartengines/images/15/img_722.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1250	492
+423	hard	smartengines	smartengines/images/15/img_722.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1250	492
+424	hard	smartengines	smartengines/images/15/img_723.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1219	331
+425	hard	smartengines	smartengines/images/15/img_742.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	233
+426	hard	smartengines	smartengines/images/15/img_743.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+427	hard	smartengines	smartengines/images/15/img_752.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1250	492
+428	hard	smartengines	smartengines/images/15/img_767.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+429	hard	smartengines	smartengines/images/15/img_773.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+430	hard	smartengines	smartengines/images/15/img_774.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	624	370
+431	hard	smartengines	smartengines/images/15/img_780.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	370
+432	hard	smartengines	smartengines/images/15/img_782.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1250	492
+433	hard	smartengines	smartengines/images/15/img_785.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	568
+434	hard	smartengines	smartengines/images/15/img_794.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+435	hard	smartengines	smartengines/images/15/img_798.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	185
+436	hard	smartengines	smartengines/images/15/img_799.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+437	hard	smartengines	smartengines/images/15/img_800.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+438	hard	smartengines	smartengines/images/15/img_810.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	185
+439	hard	smartengines	smartengines/images/15/img_818.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+440	hard	smartengines	smartengines/images/15/img_820.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+441	hard	smartengines	smartengines/images/15/img_822.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	185
+442	hard	smartengines	smartengines/images/15/img_825.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	331
+443	hard	smartengines	smartengines/images/15/img_829.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	309
+444	hard	smartengines	smartengines/images/15/img_834.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+445	hard	smartengines	smartengines/images/15/img_834.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+446	hard	smartengines	smartengines/images/15/img_841.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	309
+447	hard	smartengines	smartengines/images/15/img_860.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+448	hard	smartengines	smartengines/images/15/img_862.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	466
+449	hard	smartengines	smartengines/images/15/img_880.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+450	rival-only	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(495).jpg	4902030187590	1152	864
+451	rival-only	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(707).jpg	8002330024451	1152	864
+452	rival-only	deal	deal/barcode_bb/rec/0011110669711.jpg	0011110669711	612	816
+453	rival-only	deal	deal/barcode_bb/rec/0041570054420.jpg	0041570054420	540	960
+454	rival-only	deal	deal/barcode_bb/rec/0798936828934.jpg	0798936828934	972	1296
+455	rival-only	deal	deal/barcode_bb/rec/1501171060002.jpg	1501171060002	1536	2048
+456	rival-only	deal	deal/barcode_bb/rec/3257986904861.jpg	3257986904861	986	1200
+457	rival-only	deal	deal/barcode_bb/rec/3383740001764.jpg	3383740001764	1283	1200
+458	rival-only	deal	deal/barcode_bb/rec/3560070669813.jpg	3560070669813	910	1819
+459	rival-only	deal	deal/barcode_bb/rec/3560070907410.jpg	3560070907410	1682	1200
+460	rival-only	deal	deal/barcode_bb/rec/3661112092092.jpg	3661112092092	1000	1333
+461	rival-only	deal	deal/barcode_bb/rec/3700216253159.jpg	3700216253159	814	1200
+462	rival-only	deal	deal/barcode_bb/rec/5900531000010.jpg	5900531000010	1841	1178
+463	rival-only	deal	deal/barcode_bb/rec/5902899126227.jpg	5902899126227	2000	1500
+464	rival-only	deal	deal/barcode_bb/rec/8423261112015.jpg	8423261112015	3016	4032
+465	rival-only	deal	deal/barcode_bb/rec/8435382805486.jpg	8435382805486	900	1200
+466	rival-only	deal	deal/barcode_bb/rec/8809326451563.jpg	8809326451563	1440	1080
+467	rival-only	deal	deal/barcode_bb/single_test/2000381660396.jpg	2000381660396	585	1000
+468	rival-only	deal	deal/barcode_bb/single_test/3256226081836.jpg	3256226081836	512	443
+469	rival-only	deal	deal/barcode_bb/single_test/4002239443609.jpg	4002239443609	563	1000
+470	rival-only	deal	deal/barcode_bb/single_test/4010976381412.jpg	4010976381412	1000	634
+471	rival-only	deal	deal/barcode_bb/single_test/4037300104394.jpg	4037300104394	563	1000
+472	rival-only	deal	deal/barcode_bb/single_test/5010801004799.jpg	5010801004799	252	400
+473	rival-only	deal	deal/barcode_bb/single_test/5030131006225.jpg	5030131006225	540	1000
+474	rival-only	deal	deal/barcode_bb/single_test/5045098673694.jpg	5045098673694	276	400
+475	rival-only	deal	deal/barcode_bb/single_test/5400101238770.jpg	5400101238770	542	428
+476	rival-only	deal	deal/barcode_bb/single_test/5941040700022.jpg	5941040700022	3024	4032
+477	rival-only	deal	deal/barcode_bb/single_test/7612100017142.jpg	7612100017142	563	1000
+478	rival-only	deal	deal/barcode_bb/single_test/7629999042247.jpg	7629999042247	585	1000
+479	rival-only	deal	deal/barcode_bb/single_test/8715608222557.jpg	8715608222557	506	1000
+480	rival-only	deal	deal/barcode_bb/single_test/8934588013065.jpg	8934588013065	720	960
+481	rival-only	deal	deal/barcode_bb/single_test/8934588133060.jpg	8934588133060	720	960
+482	rival-only	deal	deal/barcode_bb/single_test/8934680011495.jpg	8934680011495	2448	3264
+483	rival-only	deal-e8	deal/e8_bb/e8/87182262.jpg	87182262	1856	2666
+484	rival-only	deal-e8	deal/e8_bb/e8/90162909.jpg	90162909	1095	1928
+485	rival-only	off	off/0037600309417_1.jpg	0037600309417	656	1369
+486	rival-only	off	off/20082345_1.jpg	20082345	1920	1440
+487	rival-only	off	off/2100101019111_2.jpg	2100101019111	1920	1654
+488	rival-only	off	off/8032649652830_2.jpg	8032649652830	592	1280
+489	rival-only	off	off/8908024977327_2.jpg	8908024977327	1275	1698
+490	rival-only	smartengines	smartengines/images/15/img_580.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+491	rival-only	smartengines	smartengines/images/15/img_580.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+492	rival-only	smartengines	smartengines/images/15/img_585.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+493	rival-only	smartengines	smartengines/images/15/img_588.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	624	185
+494	rival-only	smartengines	smartengines/images/15/img_602.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+495	rival-only	smartengines	smartengines/images/15/img_615.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+496	rival-only	smartengines	smartengines/images/15/img_617.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+497	rival-only	smartengines	smartengines/images/15/img_620.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+498	rival-only	smartengines	smartengines/images/15/img_626.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+499	rival-only	smartengines	smartengines/images/15/img_645.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+500	rival-only	smartengines	smartengines/images/15/img_651.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+501	rival-only	smartengines	smartengines/images/15/img_651.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+502	rival-only	smartengines	smartengines/images/15/img_655.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+503	rival-only	smartengines	smartengines/images/15/img_658.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1900	233
+504	rival-only	smartengines	smartengines/images/15/img_659.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	284
+505	rival-only	smartengines	smartengines/images/15/img_664.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+506	rival-only	smartengines	smartengines/images/15/img_666.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+507	rival-only	smartengines	smartengines/images/15/img_675.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	662
+508	rival-only	smartengines	smartengines/images/15/img_677.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1610	568
+509	rival-only	smartengines	smartengines/images/15/img_682.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1900	466
+510	rival-only	smartengines	smartengines/images/15/img_686.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2500	492
+511	rival-only	smartengines	smartengines/images/15/img_687.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+512	rival-only	smartengines	smartengines/images/15/img_687.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+513	rival-only	smartengines	smartengines/images/15/img_690.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	185
+514	rival-only	smartengines	smartengines/images/15/img_695.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	284
+515	rival-only	smartengines	smartengines/images/15/img_702.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+516	rival-only	smartengines	smartengines/images/15/img_707.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	284
+517	rival-only	smartengines	smartengines/images/15/img_708.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+518	rival-only	smartengines	smartengines/images/15/img_711.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+519	rival-only	smartengines	smartengines/images/15/img_711.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+520	rival-only	smartengines	smartengines/images/15/img_712.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+521	rival-only	smartengines	smartengines/images/15/img_721.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+522	rival-only	smartengines	smartengines/images/15/img_726.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	624	185
+523	rival-only	smartengines	smartengines/images/15/img_730.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	233
+524	rival-only	smartengines	smartengines/images/15/img_731.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+525	rival-only	smartengines	smartengines/images/15/img_744.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+526	rival-only	smartengines	smartengines/images/15/img_747.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1219	331
+527	rival-only	smartengines	smartengines/images/15/img_755.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+528	rival-only	smartengines	smartengines/images/15/img_756.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+529	rival-only	smartengines	smartengines/images/15/img_756.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+530	rival-only	smartengines	smartengines/images/15/img_756.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+531	rival-only	smartengines	smartengines/images/15/img_761.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+532	rival-only	smartengines	smartengines/images/15/img_762.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	624	370
+533	rival-only	smartengines	smartengines/images/15/img_767.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+534	rival-only	smartengines	smartengines/images/15/img_769.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+535	rival-only	smartengines	smartengines/images/15/img_770.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1250	492
+536	rival-only	smartengines	smartengines/images/15/img_773.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+537	rival-only	smartengines	smartengines/images/15/img_774.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	624	370
+538	rival-only	smartengines	smartengines/images/15/img_784.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	466
+539	rival-only	smartengines	smartengines/images/15/img_790.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	466
+540	rival-only	smartengines	smartengines/images/15/img_800.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+541	rival-only	smartengines	smartengines/images/15/img_802.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+542	rival-only	smartengines	smartengines/images/15/img_803.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	805	284
+543	rival-only	smartengines	smartengines/images/15/img_808.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+544	rival-only	smartengines	smartengines/images/15/img_814.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+545	rival-only	smartengines	smartengines/images/15/img_820.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+546	rival-only	smartengines	smartengines/images/15/img_823.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+547	rival-only	smartengines	smartengines/images/15/img_827.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	805	284
+548	rival-only	smartengines	smartengines/images/15/img_832.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+549	rival-only	smartengines	smartengines/images/15/img_832.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+550	rival-only	smartengines	smartengines/images/15/img_834.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+551	rival-only	smartengines	smartengines/images/15/img_838.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	950	233
+552	rival-only	smartengines	smartengines/images/15/img_839.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	805	284
+553	rival-only	smartengines	smartengines/images/15/img_840.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	370
+554	rival-only	smartengines	smartengines/images/15/img_842.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+555	rival-only	smartengines	smartengines/images/15/img_843.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1219	331
+556	rival-only	smartengines	smartengines/images/15/img_843.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1219	331
+557	rival-only	smartengines	smartengines/images/15/img_847.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+558	rival-only	smartengines	smartengines/images/15/img_856.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	466
+559	rival-only	smartengines	smartengines/images/15/img_858.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+560	rival-only	smartengines	smartengines/images/15/img_859.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	618
+561	rival-only	smartengines	smartengines/images/15/img_860.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1250	492
+562	rival-only	smartengines	smartengines/images/15/img_863.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	805	568
+563	rival-only	smartengines	smartengines/images/15/img_866.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+564	rival-only	smartengines	smartengines/images/15/img_868.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+565	rival-only	smartengines	smartengines/images/15/img_872.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1250	492
+566	rival-only	smartengines	smartengines/images/15/img_874.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+567	rival-only	smartengines	smartengines/images/15/img_874.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+568	rival-only	smartengines	smartengines/images/15/img_877.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	672	309
+569	rival-only	smartengines	smartengines/images/15/img_878.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+570	rival-only	smartengines	smartengines/images/15/img_882.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	185
+571	rival-only	smartengines	smartengines/images/15/img_883.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+572	rival-only	smartengines	smartengines/images/15/img_885.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1219	331
+573	rival-only	smartengines	smartengines/images/15/img_886.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+574	rival-only	smartengines	smartengines/images/15/img_892.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+575	rival-only	smartengines	smartengines/images/15/img_892.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+576	rival-only	smartengines	smartengines/images/15/img_898.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+577	rival-only	smartengines	smartengines/images/15/img_900.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+578	rival-only	smartengines	smartengines/images/15/img_901.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	672	309
+579	rival-only	smartengines	smartengines/images/15/img_902.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+580	rival-only	smartengines	smartengines/images/15/img_903.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+581	rival-only	smartengines	smartengines/images/15/img_904.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+582	rival-only	smartengines	smartengines/images/15/img_906.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	370
+583	rival-only	smartengines	smartengines/images/15/img_909.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1219	331
+584	rival-only	smartengines	smartengines/images/15/img_910.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+585	rival-only	smartengines	smartengines/images/15/img_910.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+586	rival-only	smartengines	smartengines/images/15/img_910.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	233
+587	rival-only	smartengines	smartengines/images/15/img_911.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	805	284
+588	rival-only	smartengines	smartengines/images/15/img_914.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+589	rival-only	smartengines	smartengines/images/15/img_916.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	466
+590	rival-only	smartengines	smartengines/images/15/img_918.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	370
+591	rival-only	smartengines	smartengines/images/15/img_923.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	805	284
+592	rival-only	smartengines	smartengines/images/15/img_924.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	370
+593	rival-only	smartengines	smartengines/images/15/img_925.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	672	618
+594	rival-only	smartengines	smartengines/images/15/img_928.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	466
+595	rival-only	smartengines	smartengines/images/15/img_928.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	466
+596	rival-only	smartengines	smartengines/images/15/img_929.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	805	568
+597	rival-only	smartengines	smartengines/images/15/img_931.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	618
+598	rival-only	smartengines	smartengines/images/15/img_931.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	618
+599	rival-only	smartengines	smartengines/images/15/img_934.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	950	466
+600	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(480).jpg	8011642111896	1152	864
+601	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(501).jpg	8002330097875	1152	864
+602	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(502).jpg	8002330097875	1152	864
+603	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(698).jpg	4902030195397	1152	864
+604	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(759).jpg	4902520242204	1152	864
+605	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(760).jpg	0051122414831	1152	864
+606	none	artelab-2	artelab/BarcodeDatasets/Dataset2/Foto(843).jpg	7321925005431	1152	864
+607	none	deal	deal/barcode_bb/rec/0381519022425.jpg	0381519022425	458	610
+608	none	deal	deal/barcode_bb/single_test/0056600816503.jpg	0056600816503	225	400
+609	none	deal	deal/barcode_bb/single_test/2319125202007.jpg	2319125202007	400	296
+610	none	deal	deal/barcode_bb/single_test/5060038571533.jpg	5060038571533	300	400
+611	none	deal	deal/barcode_bb/single_test/5410228245865.jpg	5410228245865	494	1000
+612	none	deal	deal/barcode_bb/single_test/5901617001495.jpg	5901617001495	300	400
+613	none	deal	deal/barcode_bb/single_test/7300849045549.jpg	7300849045549	511	1000
+614	none	deal	deal/barcode_bb/single_test/7611521048261.jpg	7611521048261	1000	578
+615	none	deal	deal/barcode_bb/single_test/7613035619425.jpg	7613035619425	506	1000
+616	none	deal	deal/barcode_bb/single_test/7613312159644.jpg	7613312159644	585	1000
+617	none	deal	deal/barcode_bb/single_test/7640143481699.jpg	7640143481699	506	1000
+618	none	deal	deal/barcode_bb/single_test/9300727004048.jpg	9300727004048	300	400
+619	none	smartengines	smartengines/images/15/img_579.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1219	331
+620	none	smartengines	smartengines/images/15/img_583.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+621	none	smartengines	smartengines/images/15/img_584.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+622	none	smartengines	smartengines/images/15/img_584.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+623	none	smartengines	smartengines/images/15/img_590.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1250	492
+624	none	smartengines	smartengines/images/15/img_593.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+625	none	smartengines	smartengines/images/15/img_594.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+626	none	smartengines	smartengines/images/15/img_594.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1248	185
+627	none	smartengines	smartengines/images/15/img_595.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+628	none	smartengines	smartengines/images/15/img_595.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	672	309
+629	none	smartengines	smartengines/images/15/img_596.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+630	none	smartengines	smartengines/images/15/img_596.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+631	none	smartengines	smartengines/images/15/img_598.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+632	none	smartengines	smartengines/images/15/img_610.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+633	none	smartengines	smartengines/images/15/img_612.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	624	185
+634	none	smartengines	smartengines/images/15/img_612.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	624	185
+635	none	smartengines	smartengines/images/15/img_613.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	672	309
+636	none	smartengines	smartengines/images/15/img_616.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+637	none	smartengines	smartengines/images/15/img_621.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+638	none	smartengines	smartengines/images/15/img_622.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+639	none	smartengines	smartengines/images/15/img_624.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	624	185
+640	none	smartengines	smartengines/images/15/img_625.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	672	309
+641	none	smartengines	smartengines/images/15/img_625.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	672	309
+642	none	smartengines	smartengines/images/15/img_628.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+643	none	smartengines	smartengines/images/15/img_629.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+644	none	smartengines	smartengines/images/15/img_629.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	805	284
+645	none	smartengines	smartengines/images/15/img_635.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+646	none	smartengines	smartengines/images/15/img_635.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+647	none	smartengines	smartengines/images/15/img_636.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	624	185
+648	none	smartengines	smartengines/images/15/img_640.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	950	233
+649	none	smartengines	smartengines/images/15/img_646.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	950	233
+650	none	smartengines	smartengines/images/15/img_647.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	805	284
+651	none	smartengines	smartengines/images/15/img_651.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+652	none	smartengines	smartengines/images/15/img_653.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1610	284
+653	none	smartengines	smartengines/images/15/img_654.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+654	none	smartengines	smartengines/images/15/img_655.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+655	none	smartengines	smartengines/images/15/img_660.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+656	none	smartengines	smartengines/images/15/img_661.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1344	309
+657	none	smartengines	smartengines/images/15/img_661.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1344	309
+658	none	smartengines	smartengines/images/15/img_663.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+659	none	smartengines	smartengines/images/15/img_663.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2438	331
+660	none	smartengines	smartengines/images/15/img_666.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+661	none	smartengines	smartengines/images/15/img_669.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+662	none	smartengines	smartengines/images/15/img_669.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1219	331
+663	none	smartengines	smartengines/images/15/img_671.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	284
+664	none	smartengines	smartengines/images/15/img_672.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+665	none	smartengines	smartengines/images/15/img_672.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+666	none	smartengines	smartengines/images/15/img_673.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1344	618
+667	none	smartengines	smartengines/images/15/img_677.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1610	568
+668	none	smartengines	smartengines/images/15/img_679.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	618
+669	none	smartengines	smartengines/images/15/img_680.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+670	none	smartengines	smartengines/images/15/img_683.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1610	568
+671	none	smartengines	smartengines/images/15/img_684.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+672	none	smartengines	smartengines/images/15/img_684.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+673	none	smartengines	smartengines/images/15/img_686.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	2500	492
+674	none	smartengines	smartengines/images/15/img_688.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	233
+675	none	smartengines	smartengines/images/15/img_691.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	309
+676	none	smartengines	smartengines/images/15/img_702.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1872	370
+677	none	smartengines	smartengines/images/15/img_704.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+678	none	smartengines	smartengines/images/15/img_704.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+679	none	smartengines	smartengines/images/15/img_704.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1250	492
+680	none	smartengines	smartengines/images/15/img_708.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+681	none	smartengines	smartengines/images/15/img_709.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1344	618
+682	none	smartengines	smartengines/images/15/img_712.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	c/hw 7830haHIWAEGFD21?/c.a	1900	466
+683	none	smartengines	smartengines/images/15/img_715.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1344	618
+684	none	smartengines	smartengines/images/15/img_720.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*)Y_ Hs-adnuqwe	1248	370
+685	none	smartengines	smartengines/images/15/img_721.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+686	none	smartengines	smartengines/images/15/img_722.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1250	492
+687	none	smartengines	smartengines/images/15/img_724.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	950	233
+688	none	smartengines	smartengines/images/15/img_725.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+689	none	smartengines	smartengines/images/15/img_726.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	624	185
+690	none	smartengines	smartengines/images/15/img_727.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	672	309
+691	none	smartengines	smartengines/images/15/img_735.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1219	331
+692	none	smartengines	smartengines/images/15/img_737.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+693	none	smartengines	smartengines/images/15/img_743.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	805	284
+694	none	smartengines	smartengines/images/15/img_744.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+695	none	smartengines	smartengines/images/15/img_744.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	624	185
+696	none	smartengines	smartengines/images/15/img_745.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	672	309
+697	none	smartengines	smartengines/images/15/img_749.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+698	none	smartengines	smartengines/images/15/img_749.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	284
+699	none	smartengines	smartengines/images/15/img_752.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1250	492
+700	none	smartengines	smartengines/images/15/img_753.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1219	331
+701	none	smartengines	smartengines/images/15/img_764.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	1250	492
+702	none	smartengines	smartengines/images/15/img_766.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	950	233
+703	none	smartengines	smartengines/images/15/img_771.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	1219	331
+704	none	smartengines	smartengines/images/15/img_785.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914656901846	805	568
+705	none	smartengines	smartengines/images/15/img_787.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	672	618
+706	none	smartengines	smartengines/images/15/img_787.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	3198746012375	672	618
+707	none	smartengines	smartengines/images/15/img_793.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	672	309
+708	none	smartengines	smartengines/images/15/img_794.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+709	none	smartengines	smartengines/images/15/img_794.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1250	492
+710	none	smartengines	smartengines/images/15/img_796.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+711	none	smartengines	smartengines/images/15/img_796.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	950	233
+712	none	smartengines	smartengines/images/15/img_799.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+713	none	smartengines	smartengines/images/15/img_803.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	805	284
+714	none	smartengines	smartengines/images/15/img_804.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	185
+715	none	smartengines	smartengines/images/15/img_804.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	185
+716	none	smartengines	smartengines/images/15/img_809.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	805	284
+717	none	smartengines	smartengines/images/15/img_816.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	185
+718	none	smartengines	smartengines/images/15/img_819.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	1219	331
+719	none	smartengines	smartengines/images/15/img_821.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	805	284
+720	none	smartengines	smartengines/images/15/img_821.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	805	284
+721	none	smartengines	smartengines/images/15/img_823.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	672	309
+722	none	smartengines	smartengines/images/15/img_833.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	805	284
+723	none	smartengines	smartengines/images/15/img_837.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	331
+724	none	smartengines	smartengines/images/15/img_846.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+725	none	smartengines	smartengines/images/15/img_852.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	624	370
+726	none	smartengines	smartengines/images/15/img_857.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	805	568
+727	none	smartengines	smartengines/images/15/img_858.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535619273649	624	370
+728	none	smartengines	smartengines/images/15/img_861.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	842674673216	1219	662
+729	none	smartengines	smartengines/images/15/img_866.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+730	none	smartengines	smartengines/images/15/img_868.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	233
+731	none	smartengines	smartengines/images/15/img_869.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	805	284
+732	none	smartengines	smartengines/images/15/img_873.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1219	331
+733	none	smartengines	smartengines/images/15/img_876.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+734	none	smartengines	smartengines/images/15/img_877.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	672	309
+735	none	smartengines	smartengines/images/15/img_878.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+736	none	smartengines	smartengines/images/15/img_878.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1250	492
+737	none	smartengines	smartengines/images/15/img_879.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+738	none	smartengines	smartengines/images/15/img_882.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	624	185
+739	none	smartengines	smartengines/images/15/img_883.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+740	none	smartengines	smartengines/images/15/img_884.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1250	492
+741	none	smartengines	smartengines/images/15/img_888.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+742	none	smartengines	smartengines/images/15/img_893.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	805	284
+743	none	smartengines	smartengines/images/15/img_895.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+744	none	smartengines	smartengines/images/15/img_895.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+745	none	smartengines	smartengines/images/15/img_900.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	624	185
+746	none	smartengines	smartengines/images/15/img_915.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	1219	331
+747	none	smartengines	smartengines/images/15/img_916.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	04837422	950	466
+748	none	smartengines	smartengines/images/15/img_919.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	672	309
+749	none	smartengines	smartengines/images/15/img_921.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07902581	1219	331
+750	negative	negative-lines	(production-line frame, not published)		720	250
+751	negative	negative-lines	(production-line frame, not published)		720	250
+752	negative	negative-lines	(production-line frame, not published)		720	250
+753	negative	negative-lines	(production-line frame, not published)		720	250
+754	negative	negative-lines	(production-line frame, not published)		720	250
+755	negative	negative-lines	(production-line frame, not published)		720	250
+756	negative	negative-lines	(production-line frame, not published)		720	250
+757	negative	negative-lines	(production-line frame, not published)		720	250
+758	negative	negative-lines	(production-line frame, not published)		720	250
+759	negative	negative-lines	(production-line frame, not published)		720	250
+760	negative	negative-lines	(production-line frame, not published)		720	250
+761	negative	negative-lines	(production-line frame, not published)		720	250
+762	negative	negative-lines	(production-line frame, not published)		720	250
+763	negative	negative-lines	(production-line frame, not published)		720	250
+764	negative	negative-lines	(production-line frame, not published)		720	250
+765	negative	negative-lines	(production-line frame, not published)		720	250
+766	negative	negative-lines	(production-line frame, not published)		544	450
+767	negative	negative-lines	(production-line frame, not published)		544	450
+768	negative	negative-lines	(production-line frame, not published)		544	450
+769	negative	negative-lines	(production-line frame, not published)		704	450
+770	negative	negative-lines	(production-line frame, not published)		704	450
+771	negative	negative-lines	(production-line frame, not published)		704	450
+772	negative	negative-lines	(production-line frame, not published)		704	450
+773	negative	negative-lines	(production-line frame, not published)		704	450
+774	negative	negative-lines	(production-line frame, not published)		704	450
+775	negative	negative-lines	(production-line frame, not published)		704	450
+776	negative	negative-lines	(production-line frame, not published)		704	450
+777	negative	negative-lines	(production-line frame, not published)		704	450
+778	negative	negative-lines	(production-line frame, not published)		704	450
+779	negative	negative-lines	(production-line frame, not published)		704	450
+780	negative	negative-lines	(production-line frame, not published)		704	450
+781	negative	negative-lines	(production-line frame, not published)		704	450
+782	negative	negative-lines	(production-line frame, not published)		704	450
+783	negative	negative-lines	(production-line frame, not published)		704	450
+784	negative	negative-lines	(production-line frame, not published)		704	450
+785	negative	negative-lines	(production-line frame, not published)		704	450
+786	negative	negative-lines	(production-line frame, not published)		704	450
+787	negative	negative-lines	(production-line frame, not published)		704	450
+788	negative	negative-lines	(production-line frame, not published)		704	450
+789	negative	negative-lines	(production-line frame, not published)		704	450
+790	negative	negative-lines	(production-line frame, not published)		704	450
+791	negative	negative-lines	(production-line frame, not published)		704	450
+792	negative	negative-lines	(production-line frame, not published)		704	450
+793	negative	negative-lines	(production-line frame, not published)		704	450
+794	negative	negative-lines	(production-line frame, not published)		704	450
+795	negative	negative-lines	(production-line frame, not published)		704	450
+796	negative	negative-lines	(production-line frame, not published)		704	450
+797	negative	negative-lines	(production-line frame, not published)		704	450
+798	negative	negative-lines	(production-line frame, not published)		704	450
+799	negative	negative-lines	(production-line frame, not published)		704	450
+800	negative	negative-lines	(production-line frame, not published)		704	450
+801	negative	negative-lines	(production-line frame, not published)		704	450
+802	negative	negative-lines	(production-line frame, not published)		704	450
+803	negative	negative-lines	(production-line frame, not published)		704	450
+804	negative	negative-lines	(production-line frame, not published)		704	450
+805	negative	negative-lines	(production-line frame, not published)		704	450
+806	negative	negative-lines	(production-line frame, not published)		704	450
+807	negative	negative-lines	(production-line frame, not published)		704	450
+808	negative	negative-lines	(production-line frame, not published)		704	450
+809	negative	negative-lines	(production-line frame, not published)		704	450
+810	negative	negative-lines	(production-line frame, not published)		704	450
+811	negative	negative-lines	(production-line frame, not published)		704	450
+812	negative	negative-lines	(production-line frame, not published)		704	450
+813	negative	negative-lines	(production-line frame, not published)		704	450
+814	negative	negative-lines	(production-line frame, not published)		704	450
+815	negative	negative-lines	(production-line frame, not published)		704	450
+816	negative	negative-lines	(production-line frame, not published)		704	450
+817	negative	negative-lines	(production-line frame, not published)		704	450
+818	negative	negative-lines	(production-line frame, not published)		704	450
+819	negative	negative-lines	(production-line frame, not published)		704	450
+820	negative	negative-lines	(production-line frame, not published)		704	450
+821	negative	negative-lines	(production-line frame, not published)		704	450
+822	negative	negative-lines	(production-line frame, not published)		704	450
+823	negative	negative-lines	(production-line frame, not published)		704	450
+824	negative	negative-lines	(production-line frame, not published)		704	450
+825	negative	negative-lines	(production-line frame, not published)		704	450
+826	negative	negative-lines	(production-line frame, not published)		704	450
+827	negative	negative-lines	(production-line frame, not published)		704	450
+828	negative	negative-lines	(production-line frame, not published)		704	450
+829	negative	negative-lines	(production-line frame, not published)		704	450
+830	negative	negative-lines	(production-line frame, not published)		704	450
+831	negative	negative-lines	(production-line frame, not published)		704	450
+832	negative	negative-lines	(production-line frame, not published)		704	450
+833	negative	negative-lines	(production-line frame, not published)		704	450
+834	negative	negative-lines	(production-line frame, not published)		704	450
+835	negative	negative-lines	(production-line frame, not published)		704	450
+836	negative	negative-lines	(production-line frame, not published)		704	450
+837	negative	negative-lines	(production-line frame, not published)		704	450
+838	negative	negative-lines	(production-line frame, not published)		704	450
+839	negative	negative-lines	(production-line frame, not published)		720	540
+840	negative	negative-lines	(production-line frame, not published)		720	540
+841	negative	negative-lines	(production-line frame, not published)		720	540
+842	negative	negative-lines	(production-line frame, not published)		720	540
+843	negative	negative-lines	(production-line frame, not published)		720	540
+844	negative	negative-lines	(production-line frame, not published)		720	540
+845	negative	negative-lines	(production-line frame, not published)		720	540
+846	negative	negative-lines	(production-line frame, not published)		720	540
+847	negative	negative-lines	(production-line frame, not published)		720	540
+848	negative	negative-lines	(production-line frame, not published)		720	540
+849	negative	negative-lines	(production-line frame, not published)		720	540
+850	negative	negative-lines	(production-line frame, not published)		720	540
+851	negative	negative-lines	(production-line frame, not published)		720	540
+852	negative	negative-lines	(production-line frame, not published)		720	540
+853	negative	negative-lines	(production-line frame, not published)		720	540
+854	negative	negative-lines	(production-line frame, not published)		720	540
+855	negative	negative-lines	(production-line frame, not published)		720	540
+856	negative	negative-lines	(production-line frame, not published)		720	540
+857	negative	negative-lines	(production-line frame, not published)		720	540
+858	negative	negative-lines	(production-line frame, not published)		720	540
+859	negative	negative-lines	(production-line frame, not published)		720	540
+860	negative	negative-lines	(production-line frame, not published)		720	540
+861	negative	negative-lines	(production-line frame, not published)		720	540
+862	negative	negative-lines	(production-line frame, not published)		720	540
+863	negative	negative-lines	(production-line frame, not published)		720	540
+864	negative	negative-lines	(production-line frame, not published)		720	540
+865	negative	negative-lines	(production-line frame, not published)		720	540
+866	negative	negative-lines	(production-line frame, not published)		720	540
+867	negative	negative-lines	(production-line frame, not published)		720	540
+868	negative	negative-deal	deal/background/106.jpg		1410	1058
+869	negative	negative-deal	deal/background/126.jpg		800	600
+870	negative	negative-deal	deal/background/128.jpg		780	519
+871	negative	negative-deal	deal/background/133.jpg		870	572
+872	negative	negative-deal	deal/background/142.jpg		699	466
+873	negative	negative-deal	deal/background/148.jpg		700	467
+874	negative	negative-deal	deal/background/210.jpg		1920	1080
+875	negative	negative-deal	deal/background/295.jpg		910	607
+876	negative	negative-deal	deal/background/363.jpg		728	485
+877	negative	negative-deal	deal/background/369.jpg		910	607
+878	negative	negative-deal	deal/background/429.jpg		910	607
+879	negative	negative-deal	deal/background/440.jpg		800	800
+880	negative	negative-deal	deal/background/441.jpg		640	640
+881	negative	negative-deal	deal/background/45.jpg		450	600
+882	negative	negative-deal	deal/background/496.jpg		316	160
+883	negative	negative-deal	deal/background/51.jpg		640	480
+884	negative	negative-deal	deal/background/567.jpg		936	720
+885	negative	negative-deal	deal/background/587.jpg		880	586
+886	negative	negative-deal	deal/background/590.jpg		950	535
+887	negative	negative-deal	deal/background/592.jpg		800	533
+888	negative	negative-deal	deal/background/623.jpg		900	675
+889	negative	negative-deal	deal/background/63.jpg		333	500
+890	negative	negative-deal	deal/background/721.jpg		840	560
+891	negative	negative-deal	deal/background/745.jpg		800	622
+892	negative	negative-deal	deal/background/752.jpg		1000	563
+893	negative	negative-synth	negative-synth/neg_002_blinds.jpg		1920	1080
+894	negative	negative-synth	negative-synth/neg_019_bars.jpg		1280	960
+895	negative	negative-synth	negative-synth/neg_024_bars.jpg		1024	1024
+896	negative	negative-synth	negative-synth/neg_034_bars.jpg		1280	960
+897	negative	negative-synth	negative-synth/neg_123_halftone.jpg		1024	1024
+898	negative	negative-synth	negative-synth/neg_149_bars.jpg		1280	960
+899	negative	negative-synth	negative-synth/neg_159_bars.jpg		1920	1080

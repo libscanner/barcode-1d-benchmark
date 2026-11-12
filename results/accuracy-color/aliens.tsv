@@ -1,0 +1,367 @@
+set	reader	file	code	also_by	truth
+artelab-1	unir	artelab/BarcodeDatasets/Dataset1/05102009199.jpg	8002330112752	opencv,opencv-sr	
+artelab-1	zxing	artelab/BarcodeDatasets/Dataset1/05102009159.jpg	0100580000084		4005808801046
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICfggfhT0018.JPG	08425805		8002580010945
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICT0021.JPG	8902634084888		4902030024888
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICT0022fhghg.JPG	8000781370370		8000121310370
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICT0050.JPG	9680140477323		3600540477323
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICT0hhfhg011.JPG	3048916002326		8001916002326
+artelab-1	zbar	artelab/BarcodeDatasets/Dataset1/PICTfhghgfh0039.JPG	5008340505341		4009300505341
+artelab-1	opencv	artelab/BarcodeDatasets/Dataset1/05102009199.jpg	8002330112752	unir	
+artelab-1	opencv	artelab/BarcodeDatasets/Dataset1/PICT0022fhghg.JPG	006121310370		8000121310370
+artelab-1	opencv-sr	artelab/BarcodeDatasets/Dataset1/05102009199.jpg	8002330112752	unir	
+artelab-1	opencv-sr	artelab/BarcodeDatasets/Dataset1/PICT0022fhghg.JPG	006121310370		8000121310370
+artelab-2	unir	artelab/BarcodeDatasets/Dataset2/Foto(844).jpg	7321925005431		
+artelab-2	unir	artelab/BarcodeDatasets/Dataset2/Foto(849).jpg	7321925005431		
+artelab-2	zxing	artelab/BarcodeDatasets/Dataset2/Foto(706).jpg	8105235112442		8005235212442
+artelab-2	zxing	artelab/BarcodeDatasets/Dataset2/Foto(749).jpg	0022514242202		4902520242204
+artelab-2	zxing	artelab/BarcodeDatasets/Dataset2/Foto(791).jpg	0100523000058		8005235212442
+artelab-2	zxing	artelab/BarcodeDatasets/Dataset2/Foto(793).jpg	0100523000058		8005235212442
+artelab-2	zxing	artelab/BarcodeDatasets/Dataset2/Foto(794).jpg	0100523000058		8005235212442
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(512).jpg	8083882032262		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(682).jpg	8083882032262		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(712).jpg	01140208		8002330024451
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(726).jpg	8023882032862		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(729).jpg	8083882038868		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(730).jpg	8083822038262		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(730).jpg	8083882032262		8023222032262
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(746).jpg	8912642115887		8011642115887
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(776).jpg	06321822		0051122414831
+artelab-2	zbar	artelab/BarcodeDatasets/Dataset2/Foto(816).jpg	7011607711896		8011642111896
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(512).jpg	024227032262		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(681).jpg	3015222032262		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(682).jpg	693997032262		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(726).jpg	162230882426		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(728).jpg	023992032262		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(730).jpg	9262934788428		8023222032262
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(749).jpg	942520242204		4902520242204
+artelab-2	opencv	artelab/BarcodeDatasets/Dataset2/Foto(828).jpg	3058642111896		8011642111896
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(503).jpg	002338097875		8002330097875
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(512).jpg	024227032262		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(681).jpg	3015222032262		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(682).jpg	693997032262		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(726).jpg	162230882426		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(728).jpg	023992032262		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(730).jpg	03990322		8023222032262
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(749).jpg	942520242204		4902520242204
+artelab-2	opencv-sr	artelab/BarcodeDatasets/Dataset2/Foto(828).jpg	3058642111896		8011642111896
+deal	unir	deal/barcode_bb/rec/4006313001167-01.jpg	1100719990A2031	zbar	4006313001167
+deal	unir	deal/barcode_bb/rec/4905524449563-01.jpg	177326014300796	zxing,zbar	4905524449563
+deal	unir	deal/barcode_bb/single_test/3848231873959.jpg	8801237813959	zxing,zbar,opencv,opencv-sr	3848231873959
+deal	unir	deal/barcode_bb/single_test/4002378462622.jpg	5000328462622	zxing,opencv,opencv-sr	4002378462622
+deal	unir	deal/barcode_bb/single_test/5612322264012.jpg	7611422264012	zxing,zbar	5612322264012
+deal	unir	deal/barcode_bb/single_test/7300849045549.jpg	7610849045549	zxing,zbar,opencv,opencv-sr	7300849045549
+deal	zxing	deal/barcode_bb/rec/0211629023619.jpg	0211619123619		0211629023619
+deal	zxing	deal/barcode_bb/rec/0211629023619.jpg	0211619023612		0211629023619
+deal	zxing	deal/barcode_bb/rec/0602652176517.jpg	0602642116417		0602652176517
+deal	zxing	deal/barcode_bb/rec/3073781000139.jpg	0074101000139		3073781000139
+deal	zxing	deal/barcode_bb/rec/3343929291218.jpg	1343822291218		3343929291218
+deal	zxing	deal/barcode_bb/rec/3384480028721.jpg	0387710022721		3384480028721
+deal	zxing	deal/barcode_bb/rec/4018852004370-01.jpg	0012212004370		4018852004370
+deal	zxing	deal/barcode_bb/rec/4100310725306-01.jpg	5106321724306		4100310725306
+deal	zxing	deal/barcode_bb/rec/4100310725306-01.jpg	1186311714306		4100310725306
+deal	zxing	deal/barcode_bb/rec/4100310725306-01.jpg	4100311715306		4100310725306
+deal	zxing	deal/barcode_bb/rec/4305399071201-01.jpg	4101470994304		4305399071201
+deal	zxing	deal/barcode_bb/rec/4714449063118-01.jpg	1713449063718		4714449063118
+deal	zxing	deal/barcode_bb/rec/4905524449563-01.jpg	177326014300796	unir,zbar	4905524449563
+deal	zxing	deal/barcode_bb/rec/5011417537930-01.jpg	9011444537930		5011417537930
+deal	zxing	deal/barcode_bb/rec/5011417537930-01.jpg	0078415537930		5011417537930
+deal	zxing	deal/barcode_bb/rec/8712439063403.jpg	8711439063413		8712439063403
+deal	zxing	deal/barcode_bb/rec/8886467105357.jpg	0816707105357		8886467105357
+deal	zxing	deal/barcode_bb/rec/9002759812614-01.jpg	2042516812614		9002759812614
+deal	zxing	deal/barcode_bb/rec/9002827249014-01.jpg	0040811249014		9002827249014
+deal	zxing	deal/barcode_bb/single_test/0608729658016.jpg	4018156871180		0608729658016
+deal	zxing	deal/barcode_bb/single_test/0717273501560.jpg	72735015		0717273501560
+deal	zxing	deal/barcode_bb/single_test/3270160603718.jpg	0278800603718		3270160603718
+deal	zxing	deal/barcode_bb/single_test/3524130000350.jpg	1524132000350		3524130000350
+deal	zxing	deal/barcode_bb/single_test/3596710353224.jpg	2496722343224		3596710353224
+deal	zxing	deal/barcode_bb/single_test/3848231873959.jpg	8801237813959	unir,zbar,opencv,opencv-sr	3848231873959
+deal	zxing	deal/barcode_bb/single_test/4002378462622.jpg	5000328462622	unir,opencv,opencv-sr	4002378462622
+deal	zxing	deal/barcode_bb/single_test/4002809042447.jpg	0100280000094		4002809042447
+deal	zxing	deal/barcode_bb/single_test/4004191502011.jpg	3043894502011		4004191502011
+deal	zxing	deal/barcode_bb/single_test/4007803439002.jpg	7007183439002		4007803439002
+deal	zxing	deal/barcode_bb/single_test/5000128147514.jpg	5000128141512		5000128147514
+deal	zxing	deal/barcode_bb/single_test/5000128653145.jpg	0088121653145		5000128653145
+deal	zxing	deal/barcode_bb/single_test/5000128661102.jpg	9000100661102		5000128661102
+deal	zxing	deal/barcode_bb/single_test/5000169061787.jpg	0088168061187		5000169061787
+deal	zxing	deal/barcode_bb/single_test/5010102241497.jpg	7014702241497		5010102241497
+deal	zxing	deal/barcode_bb/single_test/5052449065688.jpg	6052148064622		5052449065688
+deal	zxing	deal/barcode_bb/single_test/5060495112287.jpg	24951722		5060495112287
+deal	zxing	deal/barcode_bb/single_test/5612322264012.jpg	7611422264012	unir,zbar	5612322264012
+deal	zxing	deal/barcode_bb/single_test/7300849045549.jpg	7610849045549	unir,zbar,opencv,opencv-sr	7300849045549
+deal	zxing	deal/barcode_bb/single_test/7610849567980.jpg	4610112561281		7610849567980
+deal	zxing	deal/barcode_bb/single_test/7613036942607.jpg	7613038922607		7613036942607
+deal	zxing	deal/barcode_bb/single_test/7613379877796.jpg	7613319211796		7613379877796
+deal	zxing	deal/barcode_bb/single_test/7616500661608.jpg	0616108661618		7616500661608
+deal	zxing	deal/barcode_bb/single_test/7622300136055.jpg	3697364136055		7622300136055
+deal	zxing	deal/barcode_bb/single_test/7891095300808.jpg	0189109000057		7891095300808
+deal	zxing	deal/barcode_bb/single_test/8801027880697.jpg	3848027880697		8801027880697
+deal	zxing	deal/barcode_bb/single_test/8803733168113.jpg	3824733168113		8803733168113
+deal	zxing	deal/barcode_bb/single_test/8934588843051.jpg	0193458000088		8934588843051
+deal	zbar	deal/barcode_bb/rec/0050428375624.jpg	1016173375684		0050428375624
+deal	zbar	deal/barcode_bb/rec/0089836180742.jpg	2907091180742		0089836180742
+deal	zbar	deal/barcode_bb/rec/2689120051895.jpg	3689112051895		2689120051895
+deal	zbar	deal/barcode_bb/rec/3254561041607.jpg	9274761041607		3254561041607
+deal	zbar	deal/barcode_bb/rec/3343929291218.jpg	1343228291218		3343929291218
+deal	zbar	deal/barcode_bb/rec/4006313001167-01.jpg	1100719990A2031	unir	4006313001167
+deal	zbar	deal/barcode_bb/rec/4008617030935-01.jpg	4002677030935		4008617030935
+deal	zbar	deal/barcode_bb/rec/4009300505341_1.jpg	5008340505341		4009300505341
+deal	zbar	deal/barcode_bb/rec/4015000018418-01.jpg	4075000078478		4015000018418
+deal	zbar	deal/barcode_bb/rec/4015400141228-01.jpg	4075400741828		4015400141228
+deal	zbar	deal/barcode_bb/rec/4016598347027-01.jpg	07821133		4016598347027
+deal	zbar	deal/barcode_bb/rec/4017026031341-01.jpg	4071086037347		4017026031341
+deal	zbar	deal/barcode_bb/rec/4017026055521-01.jpg	4077026055587		4017026055521
+deal	zbar	deal/barcode_bb/rec/4020500966411-02.jpg	4080500966477		4020500966411
+deal	zbar	deal/barcode_bb/rec/4022622078294-01.jpg	4022688078894		4022622078294
+deal	zbar	deal/barcode_bb/rec/4023900190462-01.jpg	4083900790468		4023900190462
+deal	zbar	deal/barcode_bb/rec/4023900539063-01.jpg	7083840539063		4023900539063
+deal	zbar	deal/barcode_bb/rec/4056800563081-01.jpg	4056200563087		4056800563081
+deal	zbar	deal/barcode_bb/rec/4058700520430-01.jpg	4058100580430		4058700520430
+deal	zbar	deal/barcode_bb/rec/4058700621052-02.jpg	4052100627058		4058700621052
+deal	zbar	deal/barcode_bb/rec/4058700807982-01.jpg	4058100807988		4058700807982
+deal	zbar	deal/barcode_bb/rec/4067700011022-02.jpg	4061100011088		4067700011022
+deal	zbar	deal/barcode_bb/rec/4068400010124-01.jpg	4062400010184		4068400010124
+deal	zbar	deal/barcode_bb/rec/4893913999600-01.jpg	4293973999600		4893913999600
+deal	zbar	deal/barcode_bb/rec/4905524449563-01.jpg	177326014300796	unir,zxing	4905524449563
+deal	zbar	deal/barcode_bb/rec/5010677024204-01.jpg	5070617084804		5010677024204
+deal	zbar	deal/barcode_bb/rec/5702014499102-01.jpg	5708014499708		5702014499102
+deal	zbar	deal/barcode_bb/rec/7613076575094-01.jpg	7673016575096		7613076575094
+deal	zbar	deal/barcode_bb/rec/8002580010945.jpg	08425805		8002580010945
+deal	zbar	deal/barcode_bb/rec/8022628330033-01.jpg	8082622330033		8022628330033
+deal	zbar	deal/barcode_bb/rec/8076809513722-01.jpg	8076809573788		8076809513722
+deal	zbar	deal/barcode_bb/rec/8715186814014-01.jpg	8715786874074		8715186814014
+deal	zbar	deal/barcode_bb/rec/8717644390269-01.jpg	8111644390869		8717644390269
+deal	zbar	deal/barcode_bb/rec/8717644390269-01.jpg	8171644390269		8717644390269
+deal	zbar	deal/barcode_bb/rec/8801045890661.jpg	3228045890661		8801045890661
+deal	zbar	deal/barcode_bb/rec/8801045890661.jpg	6808015890661		8801045890661
+deal	zbar	deal/barcode_bb/rec/8801045890661.jpg	6208105890661		8801045890661
+deal	zbar	deal/barcode_bb/rec/8801052036212.jpg	8201052036272		8801052036212
+deal	zbar	deal/barcode_bb/rec/8938500053467.jpg	4938108053467		8938500053467
+deal	zbar	deal/barcode_bb/rec/8938500053467.jpg	4932106053467		8938500053467
+deal	zbar	deal/barcode_bb/single_test/0082000001294.jpg	3027660007894		0082000001294
+deal	zbar	deal/barcode_bb/single_test/0082000001294.jpg	3087660007294		0082000001294
+deal	zbar	deal/barcode_bb/single_test/0224607004692.jpg	224601004698		0224607004692
+deal	zbar	deal/barcode_bb/single_test/3760129920067.jpg	3160189920067		3760129920067
+deal	zbar	deal/barcode_bb/single_test/3848231873959.jpg	8801237813959	unir,zxing,opencv,opencv-sr	3848231873959
+deal	zbar	deal/barcode_bb/single_test/4003084881905.jpg	4003084887907		4003084881905
+deal	zbar	deal/barcode_bb/single_test/4260444960292.jpg	8992068960292		4260444960292
+deal	zbar	deal/barcode_bb/single_test/5060045586322.jpg	08640312		5060045586322
+deal	zbar	deal/barcode_bb/single_test/5099873046173.jpg	5099273046773		5099873046173
+deal	zbar	deal/barcode_bb/single_test/5612322264012.jpg	7611422264012	unir,zxing	5612322264012
+deal	zbar	deal/barcode_bb/single_test/7300849045549.jpg	7610849045549	unir,zxing,opencv,opencv-sr	7300849045549
+deal	zbar	deal/barcode_bb/single_test/7610807081176.jpg	00208079		7610807081176
+deal	zbar	deal/barcode_bb/single_test/7611174441006.jpg	06427049		7611174441006
+deal	zbar	deal/barcode_bb/single_test/7611916156816.jpg	5612816156816		7611916156816
+deal	zbar	deal/barcode_bb/single_test/7640159761037.jpg	8640172761037		7640159761037
+deal	zbar	deal/barcode_bb/single_test/8425408220416.jpg	3417408220416		8425408220416
+deal	zbar	deal/barcode_bb/single_test/8801037067897.jpg	3848037067897		8801037067897
+deal	zbar	deal/barcode_bb/single_test/8803381102231.jpg	8203381108231		8803381102231
+deal	zbar	deal/barcode_bb/single_test/8803733168113.jpg	3224733768113		8803733168113
+deal	zbar	deal/barcode_bb/single_test/8803733168113.jpg	8203733768113		8803733168113
+deal	zbar	deal/barcode_bb/single_test/8936175700822.jpg	8936775700888		8936175700822
+deal	zbar	deal/barcode_bb/single_test/9319864001926.jpg	9379264001926		9319864001926
+deal	opencv	deal/barcode_bb/rec/0052100090009.jpg	3657760090009		0052100090009
+deal	opencv	deal/barcode_bb/rec/3113010142503.jpg	11601241		3113010142503
+deal	opencv	deal/barcode_bb/rec/3260260206667.jpg	437320206667		3260260206667
+deal	opencv	deal/barcode_bb/rec/3595531011900.jpg	59118077		3595531011900
+deal	opencv	deal/barcode_bb/rec/4015588510441-01.jpg	100015883718		4015588510441
+deal	opencv	deal/barcode_bb/rec/4016598347027-01.jpg	714713897078		4016598347027
+deal	opencv	deal/barcode_bb/rec/4017805064454-01.jpg	17840644		4017805064454
+deal	opencv	deal/barcode_bb/rec/4018852004370-01.jpg	01221800		4018852004370
+deal	opencv	deal/barcode_bb/rec/4022927028710-01.jpg	072220729924		4022927028710
+deal	opencv	deal/barcode_bb/rec/4037300039115-01.jpg	511930004438		4037300039115
+deal	opencv	deal/barcode_bb/rec/4041500058029-01.jpg	924850003748		4041500058029
+deal	opencv	deal/barcode_bb/rec/4058700621052-02.jpg	058100621052		4058700621052
+deal	opencv	deal/barcode_bb/rec/4062400542081-01.jpg	068444542081		4062400542081
+deal	opencv	deal/barcode_bb/rec/4067700011022-02.jpg	77220110		4067700011022
+deal	opencv	deal/barcode_bb/rec/4100650393029-01.jpg	100654393029		4100650393029
+deal	opencv	deal/barcode_bb/rec/4210201370208-01.jpg	250201370208		4210201370208
+deal	opencv	deal/barcode_bb/rec/7610995799396-01.jpg	610961799396		7610995799396
+deal	opencv	deal/barcode_bb/rec/7613076575094-01.jpg	643476575094		7613076575094
+deal	opencv	deal/barcode_bb/rec/8412276994969.jpg	45209949		8412276994969
+deal	opencv	deal/barcode_bb/rec/8801007402284.jpg	640727402284		8801007402284
+deal	opencv	deal/barcode_bb/rec/8801037091106.jpg	807037091106		8801037091106
+deal	opencv	deal/barcode_bb/rec/8809427880187.jpg	82953829		8809427880187
+deal	opencv	deal/barcode_bb/single_test/0082000001294.jpg	1087066001294		0082000001294
+deal	opencv	deal/barcode_bb/single_test/0220020004332.jpg	12448449		0220020004332
+deal	opencv	deal/barcode_bb/single_test/0722252130075.jpg	22257130		0722252130075
+deal	opencv	deal/barcode_bb/single_test/3388742801909.jpg	380442801909		3388742801909
+deal	opencv	deal/barcode_bb/single_test/3848231873959.jpg	8801237813959	unir,zxing,zbar	3848231873959
+deal	opencv	deal/barcode_bb/single_test/4002378462622.jpg	5000328462622	unir,zxing	4002378462622
+deal	opencv	deal/barcode_bb/single_test/5010358218472.jpg	20218218		5010358218472
+deal	opencv	deal/barcode_bb/single_test/5052449753752.jpg	050501753752		5052449753752
+deal	opencv	deal/barcode_bb/single_test/7038010028335.jpg	7038010027833		7038010028335
+deal	opencv	deal/barcode_bb/single_test/7300849045549.jpg	7610849045549	unir,zxing,zbar	7300849045549
+deal	opencv	deal/barcode_bb/single_test/7613312112069.jpg	2014312112069		7613312112069
+deal	opencv	deal/barcode_bb/single_test/7624841094641.jpg	2122182222211		7624841094641
+deal	opencv	deal/barcode_bb/single_test/8712439030702.jpg	72213070		8712439030702
+deal	opencv	deal/barcode_bb/single_test/8801005654067.jpg	807005654067		8801005654067
+deal	opencv	deal/barcode_bb/single_test/8801104123181.jpg	7874840123181		8801104123181
+deal	opencv	deal/barcode_bb/single_test/8802340103166.jpg	94286403		8802340103166
+deal	opencv	deal/barcode_bb/single_test/8936048471248.jpg	936008471248		8936048471248
+deal	opencv	deal/barcode_bb/single_test/8936193070013.jpg	71827001		8936193070013
+deal	opencv	deal/barcode_bb/single_test/9343688001855.jpg	343083001855		9343688001855
+deal	opencv-sr	deal/barcode_bb/rec/0011111396487.jpg	700111113964		0011111396487
+deal	opencv-sr	deal/barcode_bb/rec/0052100090009.jpg	3657760090009		0052100090009
+deal	opencv-sr	deal/barcode_bb/rec/0896446002063.jpg	20220730		0896446002063
+deal	opencv-sr	deal/barcode_bb/rec/3260260206667.jpg	437320206667		3260260206667
+deal	opencv-sr	deal/barcode_bb/rec/3263858827718.jpg	264858827718		3263858827718
+deal	opencv-sr	deal/barcode_bb/rec/3661112054045.jpg	372210014093		3661112054045
+deal	opencv-sr	deal/barcode_bb/rec/4015588510441-01.jpg	100015883718		4015588510441
+deal	opencv-sr	deal/barcode_bb/rec/4016598347027-01.jpg	11413189		4016598347027
+deal	opencv-sr	deal/barcode_bb/rec/4017805064454-01.jpg	17840644		4017805064454
+deal	opencv-sr	deal/barcode_bb/rec/4018342125233.jpg	04831112		4018342125233
+deal	opencv-sr	deal/barcode_bb/rec/4018852004370-01.jpg	052911004370		4018852004370
+deal	opencv-sr	deal/barcode_bb/rec/4022927028710-01.jpg	072220729924		4022927028710
+deal	opencv-sr	deal/barcode_bb/rec/4037300039115-01.jpg	511930004438		4037300039115
+deal	opencv-sr	deal/barcode_bb/rec/4041500058029-01.jpg	924850003748		4041500058029
+deal	opencv-sr	deal/barcode_bb/rec/4058700621052-02.jpg	058100621052		4058700621052
+deal	opencv-sr	deal/barcode_bb/rec/4062400542081-01.jpg	068444542081		4062400542081
+deal	opencv-sr	deal/barcode_bb/rec/4067700011022-02.jpg	77220110		4067700011022
+deal	opencv-sr	deal/barcode_bb/rec/4210201370208-01.jpg	250201370208		4210201370208
+deal	opencv-sr	deal/barcode_bb/rec/5020411125883.jpg	57012049		5020411125883
+deal	opencv-sr	deal/barcode_bb/rec/5060528838313.jpg	00851183		5060528838313
+deal	opencv-sr	deal/barcode_bb/rec/7610995799396-01.jpg	610961799396		7610995799396
+deal	opencv-sr	deal/barcode_bb/rec/7613076575094-01.jpg	643476575094		7613076575094
+deal	opencv-sr	deal/barcode_bb/rec/8412276994969.jpg	45209949		8412276994969
+deal	opencv-sr	deal/barcode_bb/rec/8801007402284.jpg	640727402284		8801007402284
+deal	opencv-sr	deal/barcode_bb/rec/8801037091106.jpg	807037091106		8801037091106
+deal	opencv-sr	deal/barcode_bb/rec/8809427880187.jpg	82953829		8809427880187
+deal	opencv-sr	deal/barcode_bb/single_test/0082000001294.jpg	1087066001294		0082000001294
+deal	opencv-sr	deal/barcode_bb/single_test/1908170003151.jpg	202118003151		1908170003151
+deal	opencv-sr	deal/barcode_bb/single_test/3558390001659.jpg	558584001659		3558390001659
+deal	opencv-sr	deal/barcode_bb/single_test/3558390001659_1.jpg	558584001659		3558390001659
+deal	opencv-sr	deal/barcode_bb/single_test/3848231873959.jpg	8801237813959	unir,zxing,zbar	3848231873959
+deal	opencv-sr	deal/barcode_bb/single_test/4001513007629.jpg	926700317708		4001513007629
+deal	opencv-sr	deal/barcode_bb/single_test/4002378462622.jpg	5000328462622	unir,zxing	4002378462622
+deal	opencv-sr	deal/barcode_bb/single_test/4025500245184.jpg	6192255824518		4025500245184
+deal	opencv-sr	deal/barcode_bb/single_test/4260193513862.jpg	20015138		4260193513862
+deal	opencv-sr	deal/barcode_bb/single_test/5000128960571.jpg	08811196		5000128960571
+deal	opencv-sr	deal/barcode_bb/single_test/5022313888507.jpg	7021413888507		5022313888507
+deal	opencv-sr	deal/barcode_bb/single_test/5051594007062.jpg	8760515707062		5051594007062
+deal	opencv-sr	deal/barcode_bb/single_test/5052449753752.jpg	050501753752		5052449753752
+deal	opencv-sr	deal/barcode_bb/single_test/5099873046173.jpg	029813046173		5099873046173
+deal	opencv-sr	deal/barcode_bb/single_test/5319990443502.jpg	021344068914		5319990443502
+deal	opencv-sr	deal/barcode_bb/single_test/5410358442462.jpg	47631144		5410358442462
+deal	opencv-sr	deal/barcode_bb/single_test/5908230514883.jpg	51102142		5908230514883
+deal	opencv-sr	deal/barcode_bb/single_test/7038010028335.jpg	7038010027833		7038010028335
+deal	opencv-sr	deal/barcode_bb/single_test/7300849045549.jpg	7610849045549	unir,zxing,zbar	7300849045549
+deal	opencv-sr	deal/barcode_bb/single_test/7611521042214.jpg	11105718		7611521042214
+deal	opencv-sr	deal/barcode_bb/single_test/7613312112069.jpg	644382112069		7613312112069
+deal	opencv-sr	deal/barcode_bb/single_test/7613312254875.jpg	613412254215		7613312254875
+deal	opencv-sr	deal/barcode_bb/single_test/7613312261446.jpg	683312261446		7613312261446
+deal	opencv-sr	deal/barcode_bb/single_test/7613356379459.jpg	78296657		7613356379459
+deal	opencv-sr	deal/barcode_bb/single_test/7613413742295.jpg	613113742295		7613413742295
+deal	opencv-sr	deal/barcode_bb/single_test/7613413748181.jpg	674183748181		7613413748181
+deal	opencv-sr	deal/barcode_bb/single_test/7640134521090.jpg	8640140521090		7640134521090
+deal	opencv-sr	deal/barcode_bb/single_test/8413760011179.jpg	413560011179		8413760011179
+deal	opencv-sr	deal/barcode_bb/single_test/8712439030702.jpg	72213070		8712439030702
+deal	opencv-sr	deal/barcode_bb/single_test/8801005654067.jpg	807005654067		8801005654067
+deal	opencv-sr	deal/barcode_bb/single_test/8801104123181.jpg	7874840123181		8801104123181
+deal	opencv-sr	deal/barcode_bb/single_test/8802340103166.jpg	94286403		8802340103166
+deal	opencv-sr	deal/barcode_bb/single_test/8936048471248.jpg	936008471248		8936048471248
+deal	opencv-sr	deal/barcode_bb/single_test/8936193070013.jpg	71827001		8936193070013
+deal	opencv-sr	deal/barcode_bb/single_test/9000189015636.jpg	636570221004		9000189015636
+deal	opencv-sr	deal/barcode_bb/single_test/9343688001855.jpg	343083001855		9343688001855
+deal	opencv-sr	deal/barcode_bb/single_test/9353333002311.jpg	3413433002317		9353333002311
+deal-e8	unir	deal/e8_bb/e8/51001120.jpg	51001120	zxing,zbar	
+deal-e8	zxing	deal/e8_bb/e8/51001120.jpg	51001120	unir,zbar	
+deal-e8	zbar	deal/e8_bb/e8/00705615.jpg	00105675		00705615
+deal-e8	zbar	deal/e8_bb/e8/20289102.jpg	20229702		20289102
+deal-e8	zbar	deal/e8_bb/e8/51001120.jpg	51001120	unir,zxing	
+smartengines	zxing	smartengines/images/15/img_736.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914646001846		7914656901846
+smartengines	zxing	smartengines/images/15/img_737.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	0974950901246		7914656901846
+smartengines	zxing	smartengines/images/15/img_780.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	8120346012375		3198746012375
+smartengines	zxing	smartengines/images/15/img_936.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	0072100000259		07902581
+smartengines	zbar	smartengines/images/15/img_672.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	n h7 &*))_ Hz->@nuqwe		n h7 &*)Y_ Hs-adnuqwe
+smartengines	zbar	smartengines/images/15/img_806.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	8840371273649		535619273649
+smartengines	zbar	smartengines/images/15/img_826.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7011356673216		842674673216
+smartengines	zbar	smartengines/images/15/img_876.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	07901782		07902581
+smartengines	opencv	smartengines/images/15/img_579.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	94910728		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_595.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	6972759071843		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_597.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	123417062895		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_597.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	27057711		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_601.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	75742157		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_602.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	183221574021		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_603.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	5547736724022		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_604.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	291569247184		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_607.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	523191736379		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_612.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	6972759071843		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_616.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	50851171		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_620.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	107234110212		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_632.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	115017062795		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_634.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	12217830		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_642.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	81092048		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_644.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	4514304062795		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv	smartengines/images/15/img_665.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	243265812913		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_713.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	255780724015		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv	smartengines/images/15/img_739.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	591746012315		3198746012375
+smartengines	opencv	smartengines/images/15/img_744.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	190446012375		3198746012375
+smartengines	opencv	smartengines/images/15/img_748.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	648109656119		7914656901846
+smartengines	opencv	smartengines/images/15/img_784.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	78620131		7914656901846
+smartengines	opencv	smartengines/images/15/img_818.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	535622213649		535619273649
+smartengines	opencv	smartengines/images/15/img_838.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	334198898829		842674673216
+smartengines	opencv-sr	smartengines/images/15/img_579.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	94910728		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_585.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	228848153232		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_589.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	172272012057		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_595.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	6972759071843		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_597.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	123417062895		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_597.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	27057711		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_601.png_8.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	75742157		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_602.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	183221574021		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_603.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	5547736724022		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_604.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	291569247184		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_607.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	523191736379		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_612.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	6972759071843		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_620.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	107234110212		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_620.png_7.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	43651764		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_632.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	115017062795		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_634.png_9.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	12217830		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_642.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	81092048		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_644.png_4.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	4514304062795		n h7 &*)Y_ Hs-adnuqwe
+smartengines	opencv-sr	smartengines/images/15/img_665.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	243265812913		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_713.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	255780724015		c/hw 7830haHIWAEGFD21?/c.a
+smartengines	opencv-sr	smartengines/images/15/img_731.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	19220123		3198746012375
+smartengines	opencv-sr	smartengines/images/15/img_731.png_6.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	199746012375		3198746012375
+smartengines	opencv-sr	smartengines/images/15/img_734.png_1.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	7914637190184		7914656901846
+smartengines	opencv-sr	smartengines/images/15/img_748.png_2.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	648109656119		7914656901846
+smartengines	opencv-sr	smartengines/images/15/img_751.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	199746012375		3198746012375
+smartengines	opencv-sr	smartengines/images/15/img_784.png_10.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	78620131		7914656901846
+smartengines	opencv-sr	smartengines/images/15/img_793.png_5.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	53514806		535619273649
+smartengines	opencv-sr	smartengines/images/15/img_796.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	36844227		535619273649
+smartengines	opencv-sr	smartengines/images/15/img_838.png_3.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png_0.png	334198898829		842674673216
+off	unir	off/3800205450054_2.jpg	3800501506011		3800205450054
+off	unir	off/4061463486578_2.jpg	4061463486585	zxing,zbar	4061463486578
+off	unir	off/4061463486578_2.jpg	4069366089445	zxing,zbar	4061463486578
+off	zxing	off/4061463486578_2.jpg	4061463486585	unir,zbar	4061463486578
+off	zxing	off/4061463486578_2.jpg	4069366089445	unir,zbar	4061463486578
+off	zxing	off/4088700162330_1.jpg	9081708161331		4088700162330
+off	zxing	off/4099100277692_2.jpg	3926772007696		4099100277692
+off	zxing	off/4660043254097_1.jpg	0600074254097		4660043254097
+off	zxing	off/5907653103957_1.jpg	2927913103957		5907653103957
+off	zbar	off/4061463486578_1.jpg	4061463486172		4061463486578
+off	zbar	off/4061463486578_2.jpg	4069366089445	unir,zxing	4061463486578
+off	zbar	off/4061463486578_2.jpg	4061463486585	unir,zxing	4061463486578
+commons-c128	unir	commons/commons_024.jpg	0421C72A972080		
+commons-c128	unir	commons/commons_050.jpg	593711600501201110010603		
+commons-c128	unir	commons/commons_054.jpg	Q05531271685638141120370567528990040068010062		
+commons-c128	opencv	commons/commons_029.jpg	795342818191		RR008218834JO
+commons-c128	opencv	commons/commons_038.jpg	452424217258		571E060200800281
+commons-c128	opencv	commons/commons_051.jpg	3110512456541		02699222000216
+commons-c128	opencv-sr	commons/commons_029.jpg	795442818091		RR008218834JO
+commons-c128	opencv-sr	commons/commons_038.jpg	452424217258		571E060200800281
+commons-c128	opencv-sr	commons/commons_051.jpg	3110512456541		02699222000216
+negative-deal	opencv	deal/background/574.jpg	222122222218		
+negative-deal	opencv-sr	deal/background/574.jpg	222972222222		
+negative-synth	opencv	negative-synth/neg_010_stripes.jpg	212111111111		
+negative-synth	opencv	negative-synth/neg_102_blinds.jpg	11118787		
+negative-synth	opencv	negative-synth/neg_115_stripes.jpg	111121211111		
+negative-synth	opencv	negative-synth/neg_119_bars.jpg	692121991192		
+negative-synth	opencv	negative-synth/neg_139_bars.jpg	47021174		
+negative-synth	opencv	negative-synth/neg_182_blinds.jpg	4271187788777		
+negative-synth	opencv-sr	negative-synth/neg_010_stripes.jpg	212111111111		
+negative-synth	opencv-sr	negative-synth/neg_102_blinds.jpg	11118787		
+negative-synth	opencv-sr	negative-synth/neg_115_stripes.jpg	111121211111		
+negative-synth	opencv-sr	negative-synth/neg_119_bars.jpg	692121991192		
+negative-synth	opencv-sr	negative-synth/neg_139_bars.jpg	47021174		
+negative-synth	opencv-sr	negative-synth/neg_182_blinds.jpg	4271187788777		
