@@ -41,7 +41,7 @@ Share = correct / symbols with truth; precision = correct / (correct + single fo
 
 ## Readers
 
-- unir: unir 1.2.6, `unir --batch <list> --sym ean,128,gs1 --codes 0 --timeout-ms 0 --single --corners`
+- unir: unir 1.2.7, `unir --batch <list> --sym ean,128,gs1 --codes 0 --timeout-ms 0 --single --corners`
 - zxing: zxing-cpp 3.1.1 rotate+downscale+invert LocalAverage|GlobalHistogram Plain
 - zbar: pyzbar 0.1.9 image + inverted + rotated 45°
 - opencv: OpenCV 5.0.0 BarcodeDetector without a model

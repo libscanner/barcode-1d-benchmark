@@ -11,7 +11,7 @@ checked and extended.
 
 | reader | version |
 |---|---|
-| **unir** — the linear engine of [Universal Reader](https://github.com/libscanner/universal-reader) (ours) | 1.2.6 |
+| **unir** — the linear engine of [Universal Reader](https://github.com/libscanner/universal-reader) (ours) | 1.2.7 |
 | [zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) | 3.1.1 (Python binding) |
 | [ZBar](https://github.com/mchehab/zbar) | via pyzbar 0.1.9 |
 | [OpenCV](https://opencv.org) `barcode::BarcodeDetector` | 5.0.0 |
@@ -188,10 +188,6 @@ Without a licence key unir runs a 30-day trial ([libscanner.com](https://libscan
   set keeps the 145 where at least one of two readers — an early version of
   our engine or zxing-cpp — read the product code. This favours those two;
   ZBar and OpenCV took no part in the selection.
-- **Time and the engine version.** The accuracy numbers are from the unir
-  1.2.6 release, the time from unir 1.2.7: with a short limit it first reads a
-  large image downscaled; without a limit its answers are byte-for-byte those
-  of 1.2.6.
 - **We built unir looking at the misses on these same sets**, so this is still
   our home ground, although with someone else's truth. That is why the whole
   bench is published: run it on your own set.
