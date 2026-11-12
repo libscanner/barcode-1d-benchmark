@@ -184,9 +184,9 @@ Without a licence key unir runs a 30-day trial ([libscanner.com](https://libscan
   our engine or zxing-cpp — read the product code. This favours those two;
   ZBar and OpenCV took no part in the selection.
 - **Time and the engine version.** The accuracy numbers are from the unir
-  1.2.6 release. The time was measured on the engine version that goes into
-  the next unir release: with a short limit it first reads a large image
-  downscaled; without a limit its answers are byte-for-byte those of 1.2.6.
+  1.2.6 release, the time from unir 1.2.7: with a short limit it first reads a
+  large image downscaled; without a limit its answers are byte-for-byte those
+  of 1.2.6.
 - **We built unir looking at the misses on these same sets**, so this is still
   our home ground, although with someone else's truth. That is why the whole
   bench is published: run it on your own set.
