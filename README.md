@@ -9,6 +9,8 @@ truth of every image, the answers of every reader for every image, and the
 programs that produced them are published here, so every number below can be
 checked and extended.
 
+The write-up (in Russian): [Habr](https://habr.com/ru/articles/1107274/).
+
 | reader | version |
 |---|---|
 | **unir** — the linear engine of [Universal Reader](https://github.com/libscanner/universal-reader) (ours) | 1.2.7 |
