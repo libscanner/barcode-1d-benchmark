@@ -139,7 +139,7 @@ OpenCV Code 128 не читает и не сравнивается.
 | ZBar 0.23.93 | 3790 (50,3 %) | 3 | 972 | 658 / 1017 |
 
 Подробности, истина, ответы по кадрам и скрипты — [multi-sheets](multi-sheets); сами кадры (PNG, 0,97 ГБ) — в
-[выпуске sheets-v1](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/sheets-v1). На этих кадрах мы доводили unir, так что эта часть — не «слепой» замер.
+[выпуске sheets-v1](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/sheets-v1).
 
 ## Наборы
 

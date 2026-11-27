@@ -54,10 +54,6 @@ unir in 4 threads: the same answers on every frame, 172 / 304 ms. Read by any re
 Full summary — [results/summary.md](results/summary.md); every reader's answer and time per frame —
 `results/<reader>.tsv` (frame, ms, texts separated by `\x1f`, CPU ms).
 
-These frames were used while tuning unir 1.2.16 and 1.2.18 (motion blur at the sheet edges), so the unir numbers
-here are not a blind test, unlike the open sets in the main comparison. Scandit and the open readers did not see
-these frames before.
-
 ## Repeat
 
 ```

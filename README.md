@@ -139,7 +139,7 @@ Addendum 2 to the article: 377 frames 3456 × 2458 of an HT-GE2000M camera, one 
 | ZBar 0.23.93 | 3790 (50.3 %) | 3 | 972 | 658 / 1017 |
 
 Details, truth, answers per frame and scripts — [multi-sheets](multi-sheets); the frames (PNG, 0.97 GB) — in the
-[sheets-v1 release](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/sheets-v1). These frames were used while tuning unir, so this part is not a blind test.
+[sheets-v1 release](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/sheets-v1).
 
 ## Sets
 
