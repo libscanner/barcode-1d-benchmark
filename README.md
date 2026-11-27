@@ -125,6 +125,22 @@ Truth and every reader's answer per frame:
 themselves (PNG and JPEG, 1.3 GB) — in the [v1 release](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/v1).
 The generator is not published; the frames are.
 
+### Sheets of 20 barcodes from an industrial camera
+
+Addendum 2 to the article: 377 frames 3456 × 2458 of an HT-GE2000M camera, one A4 sheet of 20 EAN-13 or 20 SSCC
+(GS1-128) per frame, 7540 barcodes; rotation, dark exposure, motion blur. Barcodes only, one core:
+
+| reader | read of 7540 | whole sheets (of 377) | false | median / p90, ms |
+|---|---:|---:|---:|---|
+| unir 1.2.18 | **7305 (96.9 %)** | **342** | **0** | 267 / 529 |
+| Scandit 8.7.1 | 7277 (96.5 %) | 327 | **0** | 285 / 744 |
+| zxing-cpp 3.1.1 | 5738 (76.1 %) | 180 | 2 | 33 / 44 |
+| OpenCV 5.1 | 3936 (52.2 %) | 123 | 490 | **17 / 27** |
+| ZBar 0.23.93 | 3790 (50.3 %) | 3 | 972 | 658 / 1017 |
+
+Details, truth, answers per frame and scripts — [multi-sheets](multi-sheets); the frames (PNG, 0.97 GB) — in the
+[sheets-v1 release](https://github.com/libscanner/barcode-1d-benchmark/releases/tag/sheets-v1). These frames were used while tuning unir, so this part is not a blind test.
+
 ## Sets
 
 | set | images with truth | licence | where |
@@ -209,6 +225,7 @@ Without a licence key unir runs a 30-day trial ([libscanner.com](https://libscan
   (`<set>-<reader>.tsv`), foreign codes (`aliens.tsv`), summary;
 - `results/speed` — sample, raw times of every round, report;
 - `synthetic-sscc/` — truth and answers per frame, per-point table.
+- `multi-sheets/` — sheets of 20 barcodes: truth, frame list, answers per frame, scripts.
 
 Code: MIT No Attribution ([LICENSE](LICENSE)). The images belong to their
 authors under their licences.
